@@ -1,0 +1,3887 @@
+{
+  "lastListenerNumber": 0,
+  "leaderboard": [
+    {
+      "uid": "163658234249478144",
+      "name": "kj",
+      "avatar": "https://cdn.discordapp.com/avatars/163658234249478144/ecf1aec2a13d4b2cb1a5f936e98e8f3d.png?size=64",
+      "seconds": 117730.31999999889,
+      "isDiscord": true,
+      "lastSeen": 1792851778683
+    },
+    {
+      "uid": "140518188159991808",
+      "name": "Magick",
+      "avatar": "https://cdn.discordapp.com/avatars/140518188159991808/32c68d253c49089b5a68cec53e3cee8f.png?size=64",
+      "seconds": 86832.72599999969
+    },
+    {
+      "uid": "g-4c2f85a5b00b4dcea2fc",
+      "name": "Guest-a2fc",
+      "avatar": "",
+      "seconds": 69496.5750000001
+    },
+    {
+      "uid": "1355126906680377524",
+      "name": "ASH_CFX16",
+      "avatar": "https://cdn.discordapp.com/avatars/1355126906680377524/875d005187dc3d52077f190fc4922ed3.png?size=64",
+      "seconds": 33501.85599999999
+    },
+    {
+      "uid": "1247592470682927148",
+      "name": "Odie",
+      "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+      "seconds": 12996.153000000026
+    },
+    {
+      "uid": "960596638869635102",
+      "name": "Zoe",
+      "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+      "seconds": 12807.723
+    },
+    {
+      "uid": "g-567377d9c2cd493c85a9",
+      "name": "Listener-85A9",
+      "avatar": "",
+      "seconds": 12404.699999999997
+    },
+    {
+      "uid": "g-f6c16e5bd35f4050bc2e",
+      "name": "Listener-BC2E",
+      "avatar": "",
+      "seconds": 10540.462999999998
+    },
+    {
+      "uid": "1357173667481780316",
+      "name": "[✔] Dee Dee",
+      "avatar": "https://cdn.discordapp.com/avatars/1357173667481780316/f27364b879c343d8549592926929d387.png?size=64",
+      "seconds": 4645.838000000002
+    },
+    {
+      "uid": "1501915642540986399",
+      "name": "Lyon",
+      "avatar": "https://cdn.discordapp.com/avatars/1501915642540986399/4d82fcbed4f969e2f4f1f865d622e261.png?size=64",
+      "seconds": 3575.6
+    },
+    {
+      "uid": "g-665919920ae14de48568",
+      "name": "Listener-8568",
+      "avatar": "",
+      "seconds": 3431.6329999999994
+    },
+    {
+      "uid": "g-b06ef2ace53c4a16807f",
+      "name": "Listener-807F",
+      "avatar": "",
+      "seconds": 3153.483000000001
+    },
+    {
+      "uid": "475470866923126817",
+      "name": "The Lords Disciple",
+      "avatar": "https://cdn.discordapp.com/avatars/475470866923126817/1d468767673e31927da99a23f298b28e.png?size=64",
+      "seconds": 2640.7549999999997
+    },
+    {
+      "uid": "g-22se767zczxmt9y0fug",
+      "name": "Guest-0fug",
+      "avatar": "",
+      "seconds": 2588.0250000000005
+    },
+    {
+      "uid": "g-4jysfo",
+      "name": "Guest-ysfo",
+      "avatar": "",
+      "seconds": 2579.686
+    },
+    {
+      "uid": "1115902729995436133",
+      "name": "Rzj._.",
+      "avatar": "https://cdn.discordapp.com/avatars/1115902729995436133/1ec935bbd3ba508afdaf0170528d6052.png?size=64",
+      "seconds": 1782.727
+    },
+    {
+      "uid": "202089020136751104",
+      "name": "WeeGee",
+      "avatar": "https://cdn.discordapp.com/avatars/202089020136751104/1ec6f64234d2d1839169aad2600a37ae.png?size=64",
+      "seconds": 1695.732
+    },
+    {
+      "uid": "285431612408070144",
+      "name": "Lauro",
+      "avatar": "https://cdn.discordapp.com/avatars/285431612408070144/e1d170d1dc9a02614dea69bdcb6217fe.png?size=64",
+      "seconds": 1204.7030000000002
+    },
+    {
+      "uid": "g-adf8a6c4d8384fa0b375",
+      "name": "Guest-b375",
+      "avatar": "",
+      "seconds": 1093.672
+    },
+    {
+      "uid": "380052342814539777",
+      "name": "Bielës",
+      "avatar": "https://cdn.discordapp.com/avatars/380052342814539777/4b1e3fccc8948018b0cdf4521b32de67.png?size=64",
+      "seconds": 1031.293
+    },
+    {
+      "uid": "134190345842851840",
+      "name": "MGTPezy",
+      "avatar": "https://cdn.discordapp.com/avatars/134190345842851840/107ccd991129bbe5a096412fc4aed075.png?size=64",
+      "seconds": 932.5469999999998
+    },
+    {
+      "uid": "1121708231731970078",
+      "name": "Tedd",
+      "avatar": "https://cdn.discordapp.com/avatars/1121708231731970078/6a6bd0db0422fbb5fa67ec6c3fc0f6ae.png?size=64",
+      "seconds": 698.578
+    },
+    {
+      "uid": "1421105104714731755",
+      "name": "Jace",
+      "avatar": "https://cdn.discordapp.com/avatars/1421105104714731755/afc403298ebe979d4f740f2290352f78.png?size=64",
+      "seconds": 658.3530000000001
+    },
+    {
+      "uid": "1196885861271351447",
+      "name": "Roble",
+      "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+      "seconds": 648.207
+    },
+    {
+      "uid": "g-88473e91fda9480bbc12",
+      "name": "Guest-bc12",
+      "avatar": "",
+      "seconds": 583.2
+    },
+    {
+      "uid": "524259464375697430",
+      "name": "HannahBugzzz",
+      "avatar": "https://cdn.discordapp.com/avatars/524259464375697430/e184609bea6b8352334a9659b14bc35e.png?size=64",
+      "seconds": 519.1589999999999
+    },
+    {
+      "uid": "809638036874723378",
+      "name": "Tundermostt",
+      "avatar": "https://cdn.discordapp.com/avatars/809638036874723378/b6ae14e231efa0ce4795a0ef7f5f2192.png?size=64",
+      "seconds": 507.9980000000001
+    },
+    {
+      "uid": "370332091738619904",
+      "name": "ZanymemerXD",
+      "avatar": "https://cdn.discordapp.com/avatars/370332091738619904/27e0e6d94d4244f95b1a642ae1ef5de4.png?size=64",
+      "seconds": 501.86299999999994
+    },
+    {
+      "uid": "811006016232751146",
+      "name": "Chlloe",
+      "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+      "seconds": 424.918
+    },
+    {
+      "uid": "964210365086957649",
+      "name": "Czer78",
+      "avatar": "https://cdn.discordapp.com/avatars/964210365086957649/638af2d4f10ebb878ab95bfef1ea4c17.png?size=64",
+      "seconds": 418.63999999999993
+    },
+    {
+      "uid": "g-ae601fccd01d47c69933",
+      "name": "Guest-9933",
+      "avatar": "",
+      "seconds": 403.1789999999999
+    },
+    {
+      "uid": "1150464171297742858",
+      "name": "precisely",
+      "avatar": "https://cdn.discordapp.com/avatars/1150464171297742858/b5ec86111ddde1ac192cbe844122dc5b.png?size=64",
+      "seconds": 355.98099999999994
+    },
+    {
+      "uid": "145974126480195584",
+      "name": "Hazzerer_",
+      "avatar": "https://cdn.discordapp.com/avatars/145974126480195584/4c032bb7a72429234cacbd637d8a28bc.png?size=64",
+      "seconds": 340.44
+    },
+    {
+      "uid": "316724612341825537",
+      "name": "DefaultDan",
+      "avatar": "https://cdn.discordapp.com/avatars/316724612341825537/f20d7f325e283ff589cfb619f2d72cc9.png?size=64",
+      "seconds": 313.84900000000005
+    },
+    {
+      "uid": "1207832112640696320",
+      "name": "R10",
+      "avatar": "https://cdn.discordapp.com/avatars/1207832112640696320/142ae42e29c53c959f7ad8df654c6f4b.png?size=64",
+      "seconds": 309.871
+    },
+    {
+      "uid": "g-25ff53e2376940648565",
+      "name": "Guest-8565",
+      "avatar": "",
+      "seconds": 308.8500000000001
+    },
+    {
+      "uid": "726861364848492596",
+      "name": "Caan",
+      "avatar": "https://cdn.discordapp.com/avatars/726861364848492596/66bf4b2db46e2f69226afbd01b2edfa4.png?size=64",
+      "seconds": 296.99399999999997
+    },
+    {
+      "uid": "738856120063623242",
+      "name": "Cheeseburgr",
+      "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+      "seconds": 293.855
+    },
+    {
+      "uid": "269503541901524994",
+      "name": "Lovate",
+      "avatar": "https://cdn.discordapp.com/avatars/269503541901524994/400c255826a9b1d33baa12c8181de85d.png?size=64",
+      "seconds": 266.781
+    },
+    {
+      "uid": "892030696552546335",
+      "name": "Lil Morty 🥶",
+      "avatar": "https://cdn.discordapp.com/avatars/892030696552546335/5cd2997896074e76d3387f77ef026e2e.png?size=64",
+      "seconds": 265.961
+    },
+    {
+      "uid": "911508279199416370",
+      "name": "J0C",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "seconds": 263.759
+    },
+    {
+      "uid": "699022074676510761",
+      "name": "Em_Zeroo",
+      "avatar": "https://cdn.discordapp.com/avatars/699022074676510761/89b159ed51c91efd3e5156ce564da354.png?size=64",
+      "seconds": 251.697
+    },
+    {
+      "uid": "1341077689456656485",
+      "name": "cibulak_",
+      "avatar": "https://cdn.discordapp.com/avatars/1341077689456656485/905d6f7d52a8305f962f7a24338541fa.png?size=64",
+      "seconds": 249.02500000000003
+    },
+    {
+      "uid": "g-c4d2141299394409962c",
+      "name": "Guest-962c",
+      "avatar": "",
+      "seconds": 248.42600000000002
+    },
+    {
+      "uid": "530900024675270676",
+      "name": "Labrador Vibes",
+      "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+      "seconds": 236.171
+    },
+    {
+      "uid": "325605089559707648",
+      "name": "marunitob",
+      "avatar": "https://cdn.discordapp.com/avatars/325605089559707648/97a2195cd2a7f5c736158c2411707e4f.png?size=64",
+      "seconds": 220.867
+    },
+    {
+      "uid": "406246384409378816",
+      "name": "worble shoring",
+      "avatar": "https://cdn.discordapp.com/avatars/406246384409378816/e0b25d53d335db2142f318eb7916f6c8.png?size=64",
+      "seconds": 208.341
+    },
+    {
+      "uid": "212256919719510016",
+      "name": "Lekky",
+      "avatar": "https://cdn.discordapp.com/avatars/212256919719510016/93cee89e22ccb92661e43e36b28db271.png?size=64",
+      "seconds": 207.502
+    },
+    {
+      "uid": "772176227414310963",
+      "name": "teddo",
+      "avatar": "https://cdn.discordapp.com/avatars/772176227414310963/99813cad67c5c15b0cfaaf3e90f27575.png?size=64",
+      "seconds": 191.979
+    },
+    {
+      "uid": "1351443150153187404",
+      "name": "jargan…",
+      "avatar": "https://cdn.discordapp.com/avatars/1351443150153187404/b2c4c05925afadbe291d18853358e8f4.png?size=64",
+      "seconds": 166.63599999999997
+    },
+    {
+      "uid": "436321340304392222",
+      "name": "reidlab",
+      "avatar": "https://cdn.discordapp.com/avatars/436321340304392222/cffad51a0a67647340db94e715e6b4b4.png?size=64",
+      "seconds": 163.23100000000002
+    },
+    {
+      "uid": "330372920675270658",
+      "name": "roughrider22",
+      "avatar": "https://cdn.discordapp.com/avatars/330372920675270658/d0bbe207f143a54eaf3098829db0504c.png?size=64",
+      "seconds": 149.406
+    },
+    {
+      "uid": "268884561147068436",
+      "name": "TheJK314",
+      "avatar": "https://cdn.discordapp.com/avatars/268884561147068436/bfa72beeeb9567542dbaa585fa9a5da7.png?size=64",
+      "seconds": 149.056
+    },
+    {
+      "uid": "1402367826156720220",
+      "name": "XanthosR",
+      "avatar": "https://cdn.discordapp.com/avatars/1402367826156720220/00a2dfc4689db4b4d64c8cdebf58957d.png?size=64",
+      "seconds": 148.48999999999998
+    },
+    {
+      "uid": "144641603275980800",
+      "name": "CurdyKelp",
+      "avatar": "https://cdn.discordapp.com/avatars/144641603275980800/51fe8e166b87321db773499074a879d2.png?size=64",
+      "seconds": 148.32900000000004
+    },
+    {
+      "uid": "758283405002670110",
+      "name": "EmJae",
+      "avatar": "https://cdn.discordapp.com/avatars/758283405002670110/208ceaf602d60b65e6bebde4f1e360b7.png?size=64",
+      "seconds": 145.444
+    },
+    {
+      "uid": "g-9dad9d8c05c54f7e8890",
+      "name": "Guest-8890",
+      "avatar": "",
+      "seconds": 133.942
+    },
+    {
+      "uid": "634249087188860938",
+      "name": "avababo",
+      "avatar": "https://cdn.discordapp.com/avatars/634249087188860938/93328cd23150b76d58d3ec92f2245481.png?size=64",
+      "seconds": 133.924
+    },
+    {
+      "uid": "430473504916504577",
+      "name": "fudgydragon",
+      "avatar": "https://cdn.discordapp.com/avatars/430473504916504577/ddd7ebf07e55f3231d98980498f57fef.png?size=64",
+      "seconds": 133.92199999999997
+    },
+    {
+      "uid": "762051672372543528",
+      "name": "Parasite dwelling in omega gooch",
+      "avatar": "https://cdn.discordapp.com/avatars/762051672372543528/b02a0b9cec6c781837e1ad7b75b82802.png?size=64",
+      "seconds": 133.736
+    },
+    {
+      "uid": "1492743313420452032",
+      "name": "Jolenz",
+      "avatar": "https://cdn.discordapp.com/avatars/1492743313420452032/4bd0a22f77b09b8a1020950c8ed476cc.png?size=64",
+      "seconds": 132.236
+    },
+    {
+      "uid": "g-1009b8b79e464b6aa96e",
+      "name": "Guest-a96e",
+      "avatar": "",
+      "seconds": 132.177
+    },
+    {
+      "uid": "283462582386425856",
+      "name": "SmallBoyKyle",
+      "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+      "seconds": 130.60399999999998
+    },
+    {
+      "uid": "1127137621143990323",
+      "name": "Overlooked",
+      "avatar": "https://cdn.discordapp.com/avatars/1127137621143990323/c2b3629f62f93f05b46f38efb8dd63b8.png?size=64",
+      "seconds": 119.69200000000001
+    },
+    {
+      "uid": "144485098585063424",
+      "name": "CheeseburgerPhil",
+      "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+      "seconds": 119.278
+    },
+    {
+      "uid": "1422797982641815553",
+      "name": "meowgumi fushimewro",
+      "avatar": "https://cdn.discordapp.com/avatars/1422797982641815553/6549a5adb70b6e5c18a561db689246a5.png?size=64",
+      "seconds": 118.38900000000001
+    },
+    {
+      "uid": "749954528870268949",
+      "name": "kai",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "seconds": 118.01599999999999
+    },
+    {
+      "uid": "g-f0a92ae1766349f7b568",
+      "name": "Guest-b568",
+      "avatar": "",
+      "seconds": 117.886
+    },
+    {
+      "uid": "148358653383016448",
+      "name": "GruntsAndElites",
+      "avatar": "https://cdn.discordapp.com/avatars/148358653383016448/0b156cbdbf5cc05b61ebb2d4811b7195.png?size=64",
+      "seconds": 116.521
+    },
+    {
+      "uid": "g-30c8fa998a07451487c6",
+      "name": "Guest-87c6",
+      "avatar": "",
+      "seconds": 116.202
+    },
+    {
+      "uid": "639614234178879519",
+      "name": "..1MP4CT..",
+      "avatar": "https://cdn.discordapp.com/avatars/639614234178879519/bf2b5a631f0c3898a17fded2af7adce6.png?size=64",
+      "seconds": 116.03399999999999
+    },
+    {
+      "uid": "g-b4c2f5071f7c44af86ab",
+      "name": "Guest-86ab",
+      "avatar": "",
+      "seconds": 104.52600000000001
+    },
+    {
+      "uid": "248875936416661504",
+      "name": "Gabby",
+      "avatar": "https://cdn.discordapp.com/avatars/248875936416661504/ad78ae3fe918928a0a01d56f4838bcbe.png?size=64",
+      "seconds": 104.199
+    },
+    {
+      "uid": "893483445848801360",
+      "name": "Boigggg",
+      "avatar": "https://cdn.discordapp.com/avatars/893483445848801360/f777cecb500da768bb64e82eca94d74d.png?size=64",
+      "seconds": 104.167
+    },
+    {
+      "uid": "1489018867979386993",
+      "name": "sapo relaxando no vento🤓👌",
+      "avatar": "https://cdn.discordapp.com/avatars/1489018867979386993/77f55fecdbcbbf425f3f7ddd5fcf1f99.png?size=64",
+      "seconds": 102.81700000000001
+    },
+    {
+      "uid": "241860239865937922",
+      "name": "EZmac",
+      "avatar": "https://cdn.discordapp.com/avatars/241860239865937922/11217c1bd137a0245e2f74e1db0c7083.png?size=64",
+      "seconds": 101.897
+    },
+    {
+      "uid": "g-fe95d4d7ad20450fbb6b",
+      "name": "Guest-bb6b",
+      "avatar": "",
+      "seconds": 101.679
+    },
+    {
+      "uid": "1510482841102717072",
+      "name": "Thiago.A matos",
+      "avatar": "https://cdn.discordapp.com/avatars/1510482841102717072/8cdaf6ce96939dc3d2d50744c43d30ee.png?size=64",
+      "seconds": 89.25
+    },
+    {
+      "uid": "1347302276708044831",
+      "name": "Adri",
+      "avatar": "https://cdn.discordapp.com/avatars/1347302276708044831/c49d55c3bb3c6e8627d3b996fd5e8516.png?size=64",
+      "seconds": 88.63000000000001
+    },
+    {
+      "uid": "477949322671947776",
+      "name": "Axiom",
+      "avatar": "https://cdn.discordapp.com/avatars/477949322671947776/f917625717c5085e679dde021d4ec8bf.png?size=64",
+      "seconds": 88.133
+    },
+    {
+      "uid": "1253377525447393335",
+      "name": "Cholo",
+      "avatar": "https://cdn.discordapp.com/avatars/1253377525447393335/e198e77fec1d5f61e7ad0d2d232fffa9.png?size=64",
+      "seconds": 88.104
+    },
+    {
+      "uid": "762928884538015764",
+      "name": "Грабавщік",
+      "avatar": "https://cdn.discordapp.com/avatars/762928884538015764/519c569538b845257fee572123b362cc.png?size=64",
+      "seconds": 87.99199999999999
+    },
+    {
+      "uid": "903546635097886760",
+      "name": "joanne.",
+      "avatar": "https://cdn.discordapp.com/avatars/903546635097886760/22a5dbf25a8414d240b07731117a1703.png?size=64",
+      "seconds": 87.32
+    },
+    {
+      "uid": "521103460595138563",
+      "name": "epos",
+      "avatar": "https://cdn.discordapp.com/avatars/521103460595138563/74f2fd8b32a5eee6e359883e98deaaa5.png?size=64",
+      "seconds": 87.011
+    },
+    {
+      "uid": "1540877545434783836",
+      "name": "さげまん",
+      "avatar": "https://cdn.discordapp.com/avatars/1540877545434783836/00ee13368dab36e068972d2d48cc71a3.png?size=64",
+      "seconds": 86.887
+    },
+    {
+      "uid": "335844488096382976",
+      "name": "Voithos",
+      "avatar": "https://cdn.discordapp.com/avatars/335844488096382976/904060858ed1bea6c27ff81a9ecd9a54.png?size=64",
+      "seconds": 74.703
+    },
+    {
+      "uid": "g-adc08dbb23a741b9a90f",
+      "name": "Guest-a90f",
+      "avatar": "",
+      "seconds": 74.7
+    },
+    {
+      "uid": "g-745780bb7c5d40579b78",
+      "name": "Guest-9b78",
+      "avatar": "",
+      "seconds": 74.696
+    },
+    {
+      "uid": "g-8b23ce0c27fd4d9facec",
+      "name": "Guest-acec",
+      "avatar": "",
+      "seconds": 74.65700000000001
+    },
+    {
+      "uid": "527611552321241127",
+      "name": "Mike Laurence",
+      "avatar": "https://cdn.discordapp.com/avatars/527611552321241127/20762eda252b511763ff90acd4fb606f.png?size=64",
+      "seconds": 74.507
+    },
+    {
+      "uid": "1360455163541983352",
+      "name": "{☆<Gubbin>☆}",
+      "avatar": "https://cdn.discordapp.com/avatars/1360455163541983352/b4bd323337696d179f8b063e8fb8b0dc.png?size=64",
+      "seconds": 74.211
+    },
+    {
+      "uid": "g-fa849cb0cbcb46ee9539",
+      "name": "Guest-9539",
+      "avatar": "",
+      "seconds": 73.771
+    },
+    {
+      "uid": "799004719145287721",
+      "name": "baurus23",
+      "avatar": "https://cdn.discordapp.com/avatars/799004719145287721/2f8627e3a1c532a028a15063dc1d7b59.png?size=64",
+      "seconds": 73.583
+    },
+    {
+      "uid": "1126615483051954186",
+      "name": "dystrophic",
+      "avatar": "https://cdn.discordapp.com/avatars/1126615483051954186/3c8ad75940dc569fe5accbba887614ab.png?size=64",
+      "seconds": 73.49000000000001
+    },
+    {
+      "uid": "500357080348229633",
+      "name": "Arnold Dalton",
+      "avatar": "https://cdn.discordapp.com/avatars/500357080348229633/022602d9a32eae1d84eeb0b4a25789c0.png?size=64",
+      "seconds": 59.756
+    },
+    {
+      "uid": "107665382277410816",
+      "name": "Frank",
+      "avatar": "https://cdn.discordapp.com/avatars/107665382277410816/a_fa60c07ceb662b0e6d0b9b01de63d786.gif?size=64",
+      "seconds": 59.56999999999999
+    },
+    {
+      "uid": "1294498675808276540",
+      "name": "FinderDuchess298",
+      "avatar": "https://cdn.discordapp.com/avatars/1294498675808276540/0da12de08cb93a55ccd7a2d0effddebd.png?size=64",
+      "seconds": 59.42100000000001
+    },
+    {
+      "uid": "1203441192809799700",
+      "name": "Tray??",
+      "avatar": "https://cdn.discordapp.com/avatars/1203441192809799700/a6356bd92a1ea2de0978be9706cc1b99.png?size=64",
+      "seconds": 59.352000000000004
+    },
+    {
+      "uid": "1320112738919514184",
+      "name": "Vilão dos gurtes",
+      "avatar": "https://cdn.discordapp.com/avatars/1320112738919514184/a29de6a88bfe885ff8dae69b90d1815a.png?size=64",
+      "seconds": 58.851
+    },
+    {
+      "uid": "534612654820425728",
+      "name": "Ramiras",
+      "avatar": "https://cdn.discordapp.com/avatars/534612654820425728/a1fa3076036b445397a0f2885f550433.png?size=64",
+      "seconds": 58.811
+    },
+    {
+      "uid": "935601419690598421",
+      "name": "Drago",
+      "avatar": "https://cdn.discordapp.com/avatars/935601419690598421/a8f24a0c111ddbb93efff1f03d107840.png?size=64",
+      "seconds": 58.804
+    },
+    {
+      "uid": "833702062759870474",
+      "name": "PGB",
+      "avatar": "https://cdn.discordapp.com/avatars/833702062759870474/20cf47a9c54e0e5afbbe78f4f1ae6c1c.png?size=64",
+      "seconds": 58.736
+    },
+    {
+      "uid": "433374689734295572",
+      "name": "yluuna",
+      "avatar": "https://cdn.discordapp.com/avatars/433374689734295572/fbd9a7fb467dec9dfcd78112f26c85ae.png?size=64",
+      "seconds": 58.339
+    },
+    {
+      "uid": "1183267719529906308",
+      "name": "Cottonball senior",
+      "avatar": "https://cdn.discordapp.com/avatars/1183267719529906308/49f3951a3978970ae820400bf186f6ae.png?size=64",
+      "seconds": 44.828
+    },
+    {
+      "uid": "735252483818913801",
+      "name": "guapkitty",
+      "avatar": "https://cdn.discordapp.com/avatars/735252483818913801/106bda693a7b7575d2e3f1b1e8e2fdec.png?size=64",
+      "seconds": 44.808
+    },
+    {
+      "uid": "1325941520578384039",
+      "name": "mrseabury",
+      "avatar": "https://cdn.discordapp.com/avatars/1325941520578384039/0e2e4a910bbd01af3687613c5375f3e1.png?size=64",
+      "seconds": 44.746
+    },
+    {
+      "uid": "1138210806106959874",
+      "name": "JC Penney",
+      "avatar": "https://cdn.discordapp.com/avatars/1138210806106959874/114ac06e858ceee35537ad6b9cc19dc3.png?size=64",
+      "seconds": 44.744
+    },
+    {
+      "uid": "g-141e8869bea8450ca1d7",
+      "name": "Guest-a1d7",
+      "avatar": "",
+      "seconds": 44.563
+    },
+    {
+      "uid": "1295929480199798814",
+      "name": "Chill and Happy Asexual Man",
+      "avatar": "https://cdn.discordapp.com/avatars/1295929480199798814/42f21ef3eb4554e4b58411db71d4c1a3.png?size=64",
+      "seconds": 44.535000000000004
+    },
+    {
+      "uid": "618136999295057924",
+      "name": "Your Gucci Daddy 👀",
+      "avatar": "https://cdn.discordapp.com/avatars/618136999295057924/e81337d5bb12c6f54a56871d8ef1db7b.png?size=64",
+      "seconds": 44.393
+    },
+    {
+      "uid": "180791118387085313",
+      "name": "yng~Ghost",
+      "avatar": "https://cdn.discordapp.com/avatars/180791118387085313/7a939bfc35563a22d00c9b6df56bac47.png?size=64",
+      "seconds": 44.186
+    },
+    {
+      "uid": "756045197942587482",
+      "name": "barata man",
+      "avatar": "https://cdn.discordapp.com/avatars/756045197942587482/32626b4f1967d72114fcc67c80d01169.png?size=64",
+      "seconds": 44.182
+    },
+    {
+      "uid": "335523352028381185",
+      "name": "Polar Seltzer",
+      "avatar": "https://cdn.discordapp.com/avatars/335523352028381185/c02e548a7a5a20f20778aacd1fbb7922.png?size=64",
+      "seconds": 44.11
+    },
+    {
+      "uid": "410774220797116417",
+      "name": "BabaHalwa",
+      "avatar": "https://cdn.discordapp.com/avatars/410774220797116417/0dde76bf198177aa76301c25c6e07ff3.png?size=64",
+      "seconds": 44.058
+    },
+    {
+      "uid": "g-677f18565ad44505bf99",
+      "name": "Guest-bf99",
+      "avatar": "",
+      "seconds": 43.431
+    },
+    {
+      "uid": "337893504715849729",
+      "name": "rafey",
+      "avatar": "https://cdn.discordapp.com/avatars/337893504715849729/05e20f60e48ef739a641e94c9f90c205.png?size=64",
+      "seconds": 43.379000000000005
+    },
+    {
+      "uid": "638333909012316200",
+      "name": "KhanHayal",
+      "avatar": "https://cdn.discordapp.com/avatars/638333909012316200/d1c8fa5aa2abe68ca758b98253728e4c.png?size=64",
+      "seconds": 43.131
+    },
+    {
+      "uid": "702778138865958982",
+      "name": "arkk",
+      "avatar": "https://cdn.discordapp.com/avatars/702778138865958982/2c849128a4559593f233e9b6e2435da0.png?size=64",
+      "seconds": 43.131
+    },
+    {
+      "uid": "g-c8216fd103174685975d",
+      "name": "Guest-975d",
+      "avatar": "",
+      "seconds": 42.615
+    },
+    {
+      "uid": "1508446931729383429",
+      "name": "(𝘒𝘜𝘚𝘏𝘈𝘓_𝘖𝘗) (⁻₋⁻)",
+      "avatar": "https://cdn.discordapp.com/avatars/1508446931729383429/0354d9cc3fa68d19e4d2ca8c39a2cff3.png?size=64",
+      "seconds": 42.459
+    },
+    {
+      "uid": "1508704064962166855",
+      "name": "Viola",
+      "avatar": "https://cdn.discordapp.com/avatars/1508704064962166855/5445ffd7ffb201a98393cbdf684ea4b1.png?size=64",
+      "seconds": 41.120000000000005
+    },
+    {
+      "uid": "g-8c7e8cfb97f3402499bd",
+      "name": "Guest-99bd",
+      "avatar": "",
+      "seconds": 30.011000000000003
+    },
+    {
+      "uid": "496050375686619136",
+      "name": "digdogg",
+      "avatar": "https://cdn.discordapp.com/avatars/496050375686619136/8671a64139e79b5f316721ceb4e6c6a0.png?size=64",
+      "seconds": 29.939
+    },
+    {
+      "uid": "698017105974657125",
+      "name": "wannabephotographer",
+      "avatar": "https://cdn.discordapp.com/avatars/698017105974657125/f393a9996dcf174021a09d002483279d.png?size=64",
+      "seconds": 29.917
+    },
+    {
+      "uid": "515545965176946704",
+      "name": "TheDragon",
+      "avatar": "https://cdn.discordapp.com/avatars/515545965176946704/9801b72039ba0f83645c75bd54bf76b9.png?size=64",
+      "seconds": 29.902
+    },
+    {
+      "uid": "g-e37433b1a5b54c98a404",
+      "name": "Guest-a404",
+      "avatar": "",
+      "seconds": 29.817999999999998
+    },
+    {
+      "uid": "g-80e9e73c206a400f9b65",
+      "name": "Guest-9b65",
+      "avatar": "",
+      "seconds": 29.816000000000003
+    },
+    {
+      "uid": "882267335694618738",
+      "name": "nat.<3",
+      "avatar": "https://cdn.discordapp.com/avatars/882267335694618738/56a9199db69d820016e58c33be43748b.png?size=64",
+      "seconds": 29.743000000000002
+    },
+    {
+      "uid": "g-9f7cde2a0e6e408a90bf",
+      "name": "Guest-90bf",
+      "avatar": "",
+      "seconds": 29.741
+    },
+    {
+      "uid": "865575544750211092",
+      "name": "Dkrevil",
+      "avatar": "https://cdn.discordapp.com/avatars/865575544750211092/e23b606c772652c175b98ca6f266cdfd.png?size=64",
+      "seconds": 29.578000000000003
+    },
+    {
+      "uid": "306135521044725760",
+      "name": "jorbies",
+      "avatar": "https://cdn.discordapp.com/avatars/306135521044725760/0d6e1c7e9f3cd4ffd422e01636933032.png?size=64",
+      "seconds": 29.575
+    },
+    {
+      "uid": "943530132713373706",
+      "name": "𓆩✧𓆪 𝐒𝐚𝐧𝐜✟𝐯𝐬 𓆩✧𓆪",
+      "avatar": "https://cdn.discordapp.com/avatars/943530132713373706/c66961e9289f7552d962d824c39e92a3.png?size=64",
+      "seconds": 29.570999999999998
+    },
+    {
+      "uid": "142960900503109632",
+      "name": "godgamer",
+      "avatar": "https://cdn.discordapp.com/avatars/142960900503109632/9ca135d6668a67857be667e00caf07a0.png?size=64",
+      "seconds": 29.535
+    },
+    {
+      "uid": "142676011752882176",
+      "name": "manel",
+      "avatar": "https://cdn.discordapp.com/avatars/142676011752882176/2d7c771d9aec0e73cba3b2959e8902cb.png?size=64",
+      "seconds": 29.478
+    },
+    {
+      "uid": "1472641348967338016",
+      "name": "NomadiSkif",
+      "avatar": "https://cdn.discordapp.com/avatars/1472641348967338016/68c6e1f215c42d264a9fa31b3e9f0bc5.png?size=64",
+      "seconds": 29.463
+    },
+    {
+      "uid": "982348088763088926",
+      "name": "Dueño",
+      "avatar": "https://cdn.discordapp.com/avatars/982348088763088926/3aea918cbdc6713cac09d709b941fc4d.png?size=64",
+      "seconds": 29.267
+    },
+    {
+      "uid": "1464257090137755690",
+      "name": "T",
+      "avatar": "https://cdn.discordapp.com/avatars/1464257090137755690/93dde8bac1febcbbceb37c4bcf95bf09.png?size=64",
+      "seconds": 29.246000000000002
+    },
+    {
+      "uid": "607457813559640085",
+      "name": "Dj",
+      "avatar": "https://cdn.discordapp.com/avatars/607457813559640085/e850709bc572095f1e497199de0e5154.png?size=64",
+      "seconds": 28.936999999999998
+    },
+    {
+      "uid": "1351768236408049705",
+      "name": "ThiLaBangChiu",
+      "avatar": "https://cdn.discordapp.com/avatars/1351768236408049705/62e1b29a434ef489302595c581ecdce2.png?size=64",
+      "seconds": 28.926000000000002
+    },
+    {
+      "uid": "754333406200070266",
+      "name": "FUAS",
+      "avatar": "https://cdn.discordapp.com/avatars/754333406200070266/1a0afe33f42c83a8fce9f636a4c0398d.png?size=64",
+      "seconds": 28.918
+    },
+    {
+      "uid": "1094442162537644032",
+      "name": "ria",
+      "avatar": "https://cdn.discordapp.com/avatars/1094442162537644032/9aad27591ebc4bb7154f14edc823edb0.png?size=64",
+      "seconds": 28.884999999999998
+    },
+    {
+      "uid": "1358031887909781544",
+      "name": "CG_KATUKURI",
+      "avatar": "https://cdn.discordapp.com/avatars/1358031887909781544/b9ca518faad1a0e24114dbdf9654d857.png?size=64",
+      "seconds": 28.871000000000002
+    },
+    {
+      "uid": "1337575001783537827",
+      "name": "Millie",
+      "avatar": "https://cdn.discordapp.com/avatars/1337575001783537827/b1847b3a2167fb6db798f941f174e558.png?size=64",
+      "seconds": 28.721
+    },
+    {
+      "uid": "1536963423210840095",
+      "name": "BAHEEJ",
+      "avatar": "https://cdn.discordapp.com/avatars/1536963423210840095/c5c1ae282976c54626ebe959961e8fa2.png?size=64",
+      "seconds": 28.281
+    },
+    {
+      "uid": "1482928171786436640",
+      "name": "bharanisivar",
+      "avatar": "https://cdn.discordapp.com/avatars/1482928171786436640/a55fd2c7d380a6cc6fc2a3517ec4e71a.png?size=64",
+      "seconds": 27.883
+    },
+    {
+      "uid": "1524095089410965644",
+      "name": "alpha_sonic01",
+      "avatar": "https://cdn.discordapp.com/avatars/1524095089410965644/466b1846bcd0a94d91cef2e9044b768f.png?size=64",
+      "seconds": 27.807000000000002
+    },
+    {
+      "uid": "1536318921961902141",
+      "name": "ABHISHEK PATIL",
+      "avatar": "https://cdn.discordapp.com/avatars/1536318921961902141/85e4acf65c5c2649453314114104b477.png?size=64",
+      "seconds": 26.92
+    },
+    {
+      "uid": "g-60d19249286d4e49b4c8",
+      "name": "Guest-b4c8",
+      "avatar": "",
+      "seconds": 14.965
+    },
+    {
+      "uid": "280526975314165761",
+      "name": "woah",
+      "avatar": "https://cdn.discordapp.com/avatars/280526975314165761/ffc7909909ead065422649f1b71d324a.png?size=64",
+      "seconds": 14.939
+    },
+    {
+      "uid": "1441151139335901327",
+      "name": "JESUSISKING✝️",
+      "avatar": "https://cdn.discordapp.com/avatars/1441151139335901327/a12067ac294e94388d33a972f4541df8.png?size=64",
+      "seconds": 14.883
+    },
+    {
+      "uid": "120900601935691776",
+      "name": "Pogux",
+      "avatar": "https://cdn.discordapp.com/avatars/120900601935691776/e68d65c71e9d22d55f54ebd247ef701c.png?size=64",
+      "seconds": 14.792
+    },
+    {
+      "uid": "204722249092169730",
+      "name": "Tywald",
+      "avatar": "https://cdn.discordapp.com/avatars/204722249092169730/4eb72b56de373e9d47317c2856680469.png?size=64",
+      "seconds": 14.785
+    },
+    {
+      "uid": "1337462210129035376",
+      "name": "『GAMERJALT ✞』",
+      "avatar": "https://cdn.discordapp.com/avatars/1337462210129035376/6e553b886745be5e0c9eecb1f43194e6.png?size=64",
+      "seconds": 14.777
+    },
+    {
+      "uid": "623602776634556426",
+      "name": "thisiskorbinian",
+      "avatar": "https://cdn.discordapp.com/avatars/623602776634556426/08841b8d2793b7181667884a8ea1ff1e.png?size=64",
+      "seconds": 14.77
+    },
+    {
+      "uid": "1168266047913210072",
+      "name": "FlyingDutcharen",
+      "avatar": "https://cdn.discordapp.com/avatars/1168266047913210072/c3af1428956580af0691582e204cf08e.png?size=64",
+      "seconds": 14.729
+    },
+    {
+      "uid": "152171196459384832",
+      "name": "BLUERSO",
+      "avatar": "https://cdn.discordapp.com/avatars/152171196459384832/4dba2f883549742eddfe7269916149c4.png?size=64",
+      "seconds": 14.712
+    },
+    {
+      "uid": "503910180531077141",
+      "name": "Kartsa",
+      "avatar": "https://cdn.discordapp.com/avatars/503910180531077141/035ca11ba7bffa1114cef8925988b7f5.png?size=64",
+      "seconds": 14.687
+    },
+    {
+      "uid": "770673486129659927",
+      "name": "serpulalacrymans",
+      "avatar": "https://cdn.discordapp.com/avatars/770673486129659927/fbfafe2e5eaca61fffb929696318f424.png?size=64",
+      "seconds": 14.679
+    },
+    {
+      "uid": "1105519733828227173",
+      "name": "MrDuck",
+      "avatar": "https://cdn.discordapp.com/avatars/1105519733828227173/d68b090cd2cfa795d9082e4e2c73cc71.png?size=64",
+      "seconds": 14.677
+    },
+    {
+      "uid": "431696151901634581",
+      "name": "U+1F35E",
+      "avatar": "https://cdn.discordapp.com/avatars/431696151901634581/7bcb270128519aef037976fbc4102e3b.png?size=64",
+      "seconds": 14.652
+    },
+    {
+      "uid": "1200681298650476605",
+      "name": "A",
+      "avatar": "https://cdn.discordapp.com/avatars/1200681298650476605/f3a5f592106c9940b2ff3ad514b15a77.png?size=64",
+      "seconds": 14.595
+    },
+    {
+      "uid": "1518585745252815029",
+      "name": "irah._",
+      "avatar": "https://cdn.discordapp.com/avatars/1518585745252815029/6ac2ae4e417f6b014caffba7d8c0c0f1.png?size=64",
+      "seconds": 14.575
+    },
+    {
+      "uid": "g-ef3f5db106214f47a78d",
+      "name": "Guest-a78d",
+      "avatar": "",
+      "seconds": 14.569
+    },
+    {
+      "uid": "326810507828920321",
+      "name": "Céleste",
+      "avatar": "https://cdn.discordapp.com/avatars/326810507828920321/05af58624580a408b836fb95cdd07616.png?size=64",
+      "seconds": 14.561
+    },
+    {
+      "uid": "g-50c867b874574bfca8df",
+      "name": "Guest-a8df",
+      "avatar": "",
+      "seconds": 14.561
+    },
+    {
+      "uid": "1364635168727629945",
+      "name": "DARK COBRA",
+      "avatar": "https://cdn.discordapp.com/avatars/1364635168727629945/78d01160fcf8dee0fd3e305ec294beb1.png?size=64",
+      "seconds": 14.129
+    },
+    {
+      "uid": "606505690709753867",
+      "name": "Neoni76",
+      "avatar": "https://cdn.discordapp.com/avatars/606505690709753867/77f8a5f5208b7322b20f8616a0a1f79d.png?size=64",
+      "seconds": 14.087
+    },
+    {
+      "uid": "976563024062185512",
+      "name": "totsuqui",
+      "avatar": "https://cdn.discordapp.com/avatars/976563024062185512/4b78bdec8c209798b1b257911e8db184.png?size=64",
+      "seconds": 14.067
+    },
+    {
+      "uid": "1025396565336141885",
+      "name": "Kector0131",
+      "avatar": "https://cdn.discordapp.com/avatars/1025396565336141885/b187a795e6828187d94803e3e802ecf1.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1039171210283581443",
+      "name": "STX2Z",
+      "avatar": "https://cdn.discordapp.com/avatars/1039171210283581443/d9cefab9a7ff17298db4b101f266d918.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1049753473434005546",
+      "name": "D7K",
+      "avatar": "https://cdn.discordapp.com/avatars/1049753473434005546/f9baa17124eade7b815a88181b07e2ab.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1160328446963089608",
+      "name": "FischersFritz",
+      "avatar": "https://cdn.discordapp.com/avatars/1160328446963089608/1b75ca21b86cc5817e789ceaaf4cf5be.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1188082823861645386",
+      "name": "tora_solo (cr7 dream has end...)",
+      "avatar": "https://cdn.discordapp.com/avatars/1188082823861645386/165f96f0f7feddafe021ec49e725e96c.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1225449077748142194",
+      "name": "Akshithz",
+      "avatar": "https://cdn.discordapp.com/avatars/1225449077748142194/9b4fb786ea0fb8eb550a43f9323eedc3.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1231992282111148167",
+      "name": "Cory",
+      "avatar": "https://cdn.discordapp.com/avatars/1231992282111148167/0f99aee7bfb200ef09a370aa36909a7d.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1239236135323177040",
+      "name": "Bobthebiscuit",
+      "avatar": "https://cdn.discordapp.com/avatars/1239236135323177040/fe4d7f342aeabb1fdd17b5d250fca939.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1248575352519790612",
+      "name": "amara_kok",
+      "avatar": "https://cdn.discordapp.com/avatars/1248575352519790612/e40d73433d25132e2bb89f94b5b94bbd.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1250831608236212270",
+      "name": "Wizzy28",
+      "avatar": "https://cdn.discordapp.com/avatars/1250831608236212270/cb3167d787325186aa9a4a63be8ae991.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1314835038239723630",
+      "name": "elllllgasing777",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "seconds": 0
+    },
+    {
+      "uid": "1414778920171212865",
+      "name": "GalaxyRift",
+      "avatar": "https://cdn.discordapp.com/avatars/1414778920171212865/16ba9d05e1cdf1f95ccff3bb6e34ef54.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1456910982201737317",
+      "name": "Princess",
+      "avatar": "https://cdn.discordapp.com/avatars/1456910982201737317/bf4be3e455c545503c48e98331a13d57.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1487929643238690816",
+      "name": "Masonsgaming",
+      "avatar": "https://cdn.discordapp.com/avatars/1487929643238690816/fa17ec350ebb7817ef73d4ed6e4bf2ef.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1493350987706929406",
+      "name": "♡₊˚ 𝕽𝖊𝖟𝖊 ˚₊♡",
+      "avatar": "https://cdn.discordapp.com/avatars/1493350987706929406/4388a64dde69b7871b5fc5fda333ea96.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1498770601915977879",
+      "name": "Janner",
+      "avatar": "https://cdn.discordapp.com/avatars/1498770601915977879/1aeeed63c2dc0123a716e8989985c071.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1508201290705141955",
+      "name": "Ahmed",
+      "avatar": "https://cdn.discordapp.com/avatars/1508201290705141955/3e3b970ea6b5df5a817fa7d6f8f6b703.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1514206463713611899",
+      "name": "kaeltzy",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "seconds": 0
+    },
+    {
+      "uid": "1525705084976107632",
+      "name": "【《ℍ𝕖𝕟𝕥𝕒𝕚 𝔾𝕠𝕕𝕕𝕖𝕤𝕤》】",
+      "avatar": "https://cdn.discordapp.com/avatars/1525705084976107632/e1dcca1d6009b9f5375ab73e4de59e2e.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1531384927596183711",
+      "name": "ཐིཋྀNADAཐིཋྀ",
+      "avatar": "https://cdn.discordapp.com/avatars/1531384927596183711/cba09010ed0d39fc85d2fb936c881df8.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1537957995726639237",
+      "name": "OLEKSO",
+      "avatar": "https://cdn.discordapp.com/avatars/1537957995726639237/f32712a454ff30015da7370fadf3e5fa.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "1539615938180030538",
+      "name": "ryuJr_Pogi23",
+      "avatar": "https://cdn.discordapp.com/avatars/1539615938180030538/bd31297c06ac48dcab324330069964d3.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "230445705129361419",
+      "name": "Marmek",
+      "avatar": "https://cdn.discordapp.com/avatars/230445705129361419/607275e34dcb7ace18e6cdd71dea4331.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "265896919438589952",
+      "name": "Muyo",
+      "avatar": "https://cdn.discordapp.com/avatars/265896919438589952/1edd2cab87d96c15c775566dd0968ef7.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "329234014969921537",
+      "name": "nikonikoniko",
+      "avatar": "https://cdn.discordapp.com/avatars/329234014969921537/8e6adbacada8707a572149dbdc76edc9.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "329235437090766848",
+      "name": "Komek",
+      "avatar": "https://cdn.discordapp.com/avatars/329235437090766848/17881896b742ba449e0d2e2bc791d741.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "371703964539944971",
+      "name": "plutone175",
+      "avatar": "https://cdn.discordapp.com/avatars/371703964539944971/d11f75aca50a3086daf4da336502322f.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "455843795544571934",
+      "name": "Tuxedo kitten",
+      "avatar": "https://cdn.discordapp.com/avatars/455843795544571934/f6db30a6fabe866c2690c4c177774a8c.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "470598661559287809",
+      "name": "Aventurine.",
+      "avatar": "https://cdn.discordapp.com/avatars/470598661559287809/cc3b5836a24f15b78b769c6154527222.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "544643147683069952",
+      "name": "Starstruck",
+      "avatar": "https://cdn.discordapp.com/avatars/544643147683069952/133790efe05d295f82356db3651b7f06.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "576537767157432320",
+      "name": "Rane",
+      "avatar": "https://cdn.discordapp.com/avatars/576537767157432320/2d4fbe158776fa597193b1f0e349e6f6.png?size=64",
+      "seconds": 0
+    },
+    {
+      "uid": "687144393874079760",
+      "name": "LessS",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "seconds": 0
+    },
+    {
+      "uid": "g-5sceos",
+      "name": "Listener-CEOS",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788397452913
+    },
+    {
+      "uid": "g-wdl1dt",
+      "name": "Listener-L1DT",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788410970036
+    },
+    {
+      "uid": "g-y9migo",
+      "name": "Listener-MIGO",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788411009802
+    },
+    {
+      "uid": "g-ey9lmi",
+      "name": "Listener-9LMI",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788896196053
+    },
+    {
+      "uid": "g-2cwg3h",
+      "name": "Listener-WG3H",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788896209057
+    },
+    {
+      "uid": "g-mxemj4",
+      "name": "Listener-EMJ4",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788896255308
+    },
+    {
+      "uid": "g-xz5wor",
+      "name": "Listener-5WOR",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1788896294274
+    },
+    {
+      "uid": "g-6q1otw",
+      "name": "Listener-1OTW",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1789594108365
+    },
+    {
+      "uid": "g-58lc2o",
+      "name": "Listener-LC2O",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1789594137086
+    },
+    {
+      "uid": "g-62ldui",
+      "name": "Listener-LDUI",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1789594137887
+    },
+    {
+      "uid": "g-y9iuhr",
+      "name": "Listener-IUHR",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1789594147716
+    },
+    {
+      "uid": "g-xu3rwv",
+      "name": "Listener-3RWV",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1790018938575
+    },
+    {
+      "uid": "g-h1xst3",
+      "name": "Listener-XST3",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1790204396403
+    },
+    {
+      "uid": "g-d32mry",
+      "name": "Listener-2MRY",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1790476272400
+    },
+    {
+      "uid": "g-omjmy9",
+      "name": "Listener-JMY9",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1791587762447
+    },
+    {
+      "uid": "g-lwfas9",
+      "name": "Listener-FAS9",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1791989004537
+    },
+    {
+      "uid": "g-nueaym",
+      "name": "Listener-EAYM",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1792188484514
+    },
+    {
+      "uid": "g-s0feem",
+      "name": "Listener-FEEM",
+      "avatar": "",
+      "seconds": 0,
+      "lastSeen": 1792188495336
+    },
+    {
+      "uid": "g-oxzk85",
+      "name": "Listener-ZK85",
+      "avatar": "",
+      "seconds": 269.969,
+      "lastSeen": 1792851788022
+    },
+    {
+      "uid": "g-s1",
+      "name": "Listener S1",
+      "avatar": "",
+      "seconds": 1439.1570000000008,
+      "lastSeen": 1793201121138
+    },
+    {
+      "avatar": "https://cdn.discordapp.com/avatars/939244728300490792/b2931079d2aaab5e6cb9c157b5691282.png?size=64",
+      "firstSeen": 1787007350552,
+      "lastBeat": 1787007350552,
+      "lastSeen": 1787007350552,
+      "name": "Jolie",
+      "seconds": 0,
+      "uid": "939244728300490792"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1786220501554,
+      "lastBeat": 0,
+      "lastSeen": 1788383164118,
+      "name": "Guest",
+      "seconds": 0,
+      "uid": "anon"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1786440200240,
+      "lastBeat": 1786440200240,
+      "lastSeen": 1786440200240,
+      "name": "Guest-9953",
+      "seconds": 0,
+      "uid": "g-1377bb9a0b2149f09953"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787441707446,
+      "lastBeat": 1787441707446,
+      "lastSeen": 1787441707446,
+      "name": "Guest-98cb",
+      "seconds": 0,
+      "uid": "g-44a17d656e514ae698cb"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1786839311085,
+      "lastBeat": 1786839311085,
+      "lastSeen": 1786839311085,
+      "name": "Guest-8589",
+      "seconds": 0,
+      "uid": "g-65e1b961bddf4d8d8589"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1786272314371,
+      "lastBeat": 1786272314371,
+      "lastSeen": 1786272314371,
+      "name": "Guest-9fbf",
+      "seconds": 0,
+      "uid": "g-846930eae83749649fbf"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1786723422728,
+      "lastBeat": 1786723422728,
+      "lastSeen": 1786723422728,
+      "name": "Guest-b8f4",
+      "seconds": 0,
+      "uid": "g-8a13b206f7404adeb8f4"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787757942830,
+      "lastBeat": 1787757942830,
+      "lastSeen": 1787757942830,
+      "name": "Guest-867f",
+      "seconds": 0,
+      "uid": "g-8b565800a1954ece867f"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787622206947,
+      "lastBeat": 1787622206947,
+      "lastSeen": 1787622206947,
+      "name": "Guest-9f48",
+      "seconds": 0,
+      "uid": "g-9ca93a70251849139f48"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787097902602,
+      "lastBeat": 1787097902602,
+      "lastSeen": 1787097902602,
+      "name": "Guest-b055",
+      "seconds": 0,
+      "uid": "g-b1bb32756aec4dafb055"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787162699945,
+      "lastBeat": 1787162699945,
+      "lastSeen": 1787162699945,
+      "name": "Guest-b8f3",
+      "seconds": 0,
+      "uid": "g-db80ce7f45774610b8f3"
+    },
+    {
+      "avatar": "",
+      "firstSeen": 1787097822498,
+      "lastBeat": 1787097822498,
+      "lastSeen": 1787097822498,
+      "name": "Guest-98e3",
+      "seconds": 0,
+      "uid": "g-dc7384a447a741f998e3"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1786231597700-70e3b2fc98d84fcfbd8e",
+      "text": "Aura",
+      "ts": 1786231597862,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1441151139335901327/a12067ac294e94388d33a972f4541df8.png?size=64",
+        "name": "JESUSISKING✝️",
+        "uid": "1441151139335901327"
+      }
+    },
+    {
+      "id": "1786231628371-6662cfdef12f4f89a440",
+      "text": "Can I cuss in this chat",
+      "ts": 1786231628543,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1203441192809799700/a6356bd92a1ea2de0978be9706cc1b99.png?size=64",
+        "name": "Tray??",
+        "uid": "1203441192809799700"
+      }
+    },
+    {
+      "id": "1786231633105-c1d7cae8709e43b092cd",
+      "text": "Hi shit",
+      "ts": 1786231633278,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1203441192809799700/a6356bd92a1ea2de0978be9706cc1b99.png?size=64",
+        "name": "Tray??",
+        "uid": "1203441192809799700"
+      }
+    },
+    {
+      "id": "1786231644160-85aa3cdc606944a4b203",
+      "text": "@JESUSISKING✝️",
+      "ts": 1786231644347,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1203441192809799700/a6356bd92a1ea2de0978be9706cc1b99.png?size=64",
+        "name": "Tray??",
+        "uid": "1203441192809799700"
+      }
+    },
+    {
+      "id": "1786275113676-46ec8ecf25554cf5b092",
+      "text": "/play starboy",
+      "ts": 1786275113210,
+      "user": {
+        "avatar": "",
+        "name": "Guest-a8df",
+        "uid": "g-50c867b874574bfca8df"
+      }
+    },
+    {
+      "id": "1786303564131-451b38a46a4a4e7285fa",
+      "text": "VACCINES DONT WORK",
+      "ts": 1786303564317,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/163658234249478144/ecf1aec2a13d4b2cb1a5f936e98e8f3d.png?size=64",
+        "name": "kj",
+        "uid": "163658234249478144"
+      }
+    },
+    {
+      "id": "1786303567403-515fcbd639fe43de8bc3",
+      "text": "FATHER CANCER",
+      "ts": 1786303567592,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/163658234249478144/ecf1aec2a13d4b2cb1a5f936e98e8f3d.png?size=64",
+        "name": "kj",
+        "uid": "163658234249478144"
+      }
+    },
+    {
+      "id": "1786303674833-1f929208bd7a48bc8991",
+      "text": "Father why do i get hard when i see naked men",
+      "ts": 1786303675737,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/202089020136751104/1ec6f64234d2d1839169aad2600a37ae.png?size=64",
+        "name": "WeeGee",
+        "uid": "202089020136751104"
+      }
+    },
+    {
+      "id": "1786303691659-579f10ea92fd4033a68d",
+      "text": "I LOVE ISRAEL",
+      "ts": 1786303691849,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/163658234249478144/ecf1aec2a13d4b2cb1a5f936e98e8f3d.png?size=64",
+        "name": "kj",
+        "uid": "163658234249478144"
+      }
+    },
+    {
+      "id": "1786303781722-87c76c7582b242a780a6",
+      "text": "Please Israel send me to Gaza",
+      "ts": 1786303782625,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/202089020136751104/1ec6f64234d2d1839169aad2600a37ae.png?size=64",
+        "name": "WeeGee",
+        "uid": "202089020136751104"
+      }
+    },
+    {
+      "id": "1786303782039-7d0dbcae14b745edb884",
+      "text": "Please Israel send me to Gaza",
+      "ts": 1786303782943,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/202089020136751104/1ec6f64234d2d1839169aad2600a37ae.png?size=64",
+        "name": "WeeGee",
+        "uid": "202089020136751104"
+      }
+    },
+    {
+      "id": "1786305066900-ce4b9dc0c3ca4b8185d4",
+      "text": "The power of Jesus is coming into me",
+      "ts": 1786305067810,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/202089020136751104/1ec6f64234d2d1839169aad2600a37ae.png?size=64",
+        "name": "WeeGee",
+        "uid": "202089020136751104"
+      }
+    },
+    {
+      "id": "1786312680227-c537aa3d783a420b86e1",
+      "text": "@WeeGee got instagram",
+      "ts": 1786312680445,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/142676011752882176/2d7c771d9aec0e73cba3b2959e8902cb.png?size=64",
+        "name": "manel",
+        "uid": "142676011752882176"
+      }
+    },
+    {
+      "id": "1786401829120-e3c749c1b5c94f65bcc3",
+      "text": "I'm Muslim",
+      "ts": 1786401829439,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1472641348967338016/68c6e1f215c42d264a9fa31b3e9f0bc5.png?size=64",
+        "name": "NomadiSkif",
+        "uid": "1472641348967338016"
+      }
+    },
+    {
+      "id": "1786401834047-75729a69e06c436886a0",
+      "text": "I don't like Jesus",
+      "ts": 1786401834371,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1472641348967338016/68c6e1f215c42d264a9fa31b3e9f0bc5.png?size=64",
+        "name": "NomadiSkif",
+        "uid": "1472641348967338016"
+      }
+    },
+    {
+      "id": "1786440107404-da4d6030e2d648c3a3c6",
+      "text": "Hello",
+      "ts": 1786440107585,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/762051672372543528/b02a0b9cec6c781837e1ad7b75b82802.png?size=64",
+        "name": "Parasite dwelling in omega gooch",
+        "uid": "762051672372543528"
+      }
+    },
+    {
+      "id": "1786440109265-7cd966009aa54daa90e6",
+      "text": "Heeyyy",
+      "ts": 1786440108995,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1360455163541983352/b4bd323337696d179f8b063e8fb8b0dc.png?size=64",
+        "name": "{☆<Gubbin>☆}",
+        "uid": "1360455163541983352"
+      }
+    },
+    {
+      "id": "1786440125900-c11e9650129d48a8937c",
+      "text": "Im an atheist X33",
+      "ts": 1786440125616,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1360455163541983352/b4bd323337696d179f8b063e8fb8b0dc.png?size=64",
+        "name": "{☆<Gubbin>☆}",
+        "uid": "1360455163541983352"
+      }
+    },
+    {
+      "id": "1786440132565-d84e18a1d9d1486a8b7d",
+      "text": "No god for mese",
+      "ts": 1786440132278,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1360455163541983352/b4bd323337696d179f8b063e8fb8b0dc.png?size=64",
+        "name": "{☆<Gubbin>☆}",
+        "uid": "1360455163541983352"
+      }
+    },
+    {
+      "id": "1786440141483-ea10300f50ee4acf96fa",
+      "text": "This girl has a mommy voice though 😳",
+      "ts": 1786440141655,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/762051672372543528/b02a0b9cec6c781837e1ad7b75b82802.png?size=64",
+        "name": "Parasite dwelling in omega gooch",
+        "uid": "762051672372543528"
+      }
+    },
+    {
+      "id": "1786510982411-f90e1bc6c51048b88e1c",
+      "text": "amen bro.. amen..",
+      "ts": 1786510981831,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/430473504916504577/ddd7ebf07e55f3231d98980498f57fef.png?size=64",
+        "name": "fudgydragon",
+        "uid": "430473504916504577"
+      }
+    },
+    {
+      "id": "1786562921726-a0c30386f6144acc981f",
+      "text": "fucks yours bits",
+      "ts": 1786562924518,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1489018867979386993/77f55fecdbcbbf425f3f7ddd5fcf1f99.png?size=64",
+        "name": "sapo relaxando no vento🤓👌",
+        "uid": "1489018867979386993"
+      }
+    },
+    {
+      "id": "1786562977032-6acaa8d95968455d9c50",
+      "text": "@sapo relaxando no vento🤓👌 @sapo relaxando no vento🤓👌",
+      "ts": 1786562979831,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1489018867979386993/77f55fecdbcbbf425f3f7ddd5fcf1f99.png?size=64",
+        "name": "sapo relaxando no vento🤓👌",
+        "uid": "1489018867979386993"
+      }
+    },
+    {
+      "id": "1786562986520-ae08fbdba34d48338457",
+      "text": "my name",
+      "ts": 1786562989314,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1489018867979386993/77f55fecdbcbbf425f3f7ddd5fcf1f99.png?size=64",
+        "name": "sapo relaxando no vento🤓👌",
+        "uid": "1489018867979386993"
+      }
+    },
+    {
+      "id": "1786562993544-3bee2ab5c70148f08d0c",
+      "text": "mangaplaudim",
+      "ts": 1786562996336,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1489018867979386993/77f55fecdbcbbf425f3f7ddd5fcf1f99.png?size=64",
+        "name": "sapo relaxando no vento🤓👌",
+        "uid": "1489018867979386993"
+      }
+    },
+    {
+      "id": "1786744111153-48eb460710034582b333",
+      "text": "Pongan Cantos gregorianos",
+      "ts": 1786744111256,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/943530132713373706/c66961e9289f7552d962d824c39e92a3.png?size=64",
+        "name": "𓆩✧𓆪 𝐒𝐚𝐧𝐜✟𝐯𝐬 𓆩✧𓆪",
+        "uid": "943530132713373706"
+      }
+    },
+    {
+      "id": "1786747047209-bfead5549e5f4c0e93cc",
+      "text": "Ui",
+      "ts": 1786747047407,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1510482841102717072/8cdaf6ce96939dc3d2d50744c43d30ee.png?size=64",
+        "name": "Thiago.A matos",
+        "uid": "1510482841102717072"
+      }
+    },
+    {
+      "id": "1786749928335-70b9a5068e464768bc88",
+      "text": "@mike Laurence",
+      "ts": 1786749927912,
+      "user": {
+        "avatar": "",
+        "name": "Guest-acec",
+        "uid": "g-8b23ce0c27fd4d9facec"
+      }
+    },
+    {
+      "id": "1786749947230-cc6ceb0df5da46a6bb5a",
+      "text": "@Guest-acec hello",
+      "ts": 1786749946509,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/500357080348229633/022602d9a32eae1d84eeb0b4a25789c0.png?size=64",
+        "name": "Arnold Dalton",
+        "uid": "500357080348229633"
+      }
+    },
+    {
+      "id": "1786749955842-0392ce1ef62c49f79b94",
+      "replyTo": {
+        "id": "1786749947230-cc6ceb0df5da46a6bb5a",
+        "name": "Arnold Dalton",
+        "text": "@Guest-acec hello"
+      },
+      "text": "fuck you",
+      "ts": 1786749955426,
+      "user": {
+        "avatar": "",
+        "name": "Guest-acec",
+        "uid": "g-8b23ce0c27fd4d9facec"
+      }
+    },
+    {
+      "id": "1786749957518-2a4938c10ffa43a1b5d7",
+      "replyTo": {
+        "id": "1786749928335-70b9a5068e464768bc88",
+        "name": "Guest-acec",
+        "text": "@mike Laurence"
+      },
+      "text": "i am going to get you",
+      "ts": 1786749957579,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/527611552321241127/20762eda252b511763ff90acd4fb606f.png?size=64",
+        "name": "Mike Laurence",
+        "uid": "527611552321241127"
+      }
+    },
+    {
+      "id": "1786749962672-16fd9f13d8d44f4bb996",
+      "text": "@Guest-acec :(",
+      "ts": 1786749961957,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/500357080348229633/022602d9a32eae1d84eeb0b4a25789c0.png?size=64",
+        "name": "Arnold Dalton",
+        "uid": "500357080348229633"
+      }
+    },
+    {
+      "id": "1786749982615-076a4242392146659b63",
+      "text": "~(_8^(|)",
+      "ts": 1786749982192,
+      "user": {
+        "avatar": "",
+        "name": "Guest-acec",
+        "uid": "g-8b23ce0c27fd4d9facec"
+      }
+    },
+    {
+      "id": "1786749987760-0756da70efa04a1bbe71",
+      "replyTo": {
+        "id": "1786747047209-bfead5549e5f4c0e93cc",
+        "name": "Thiago.A matos",
+        "text": "Ui"
+      },
+      "text": "ily",
+      "ts": 1786749987794,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/527611552321241127/20762eda252b511763ff90acd4fb606f.png?size=64",
+        "name": "Mike Laurence",
+        "uid": "527611552321241127"
+      }
+    },
+    {
+      "id": "1786750000025-8fb8282a13cb41e4ad6e",
+      "text": "faggot",
+      "ts": 1786750000062,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/527611552321241127/20762eda252b511763ff90acd4fb606f.png?size=64",
+        "name": "Mike Laurence",
+        "uid": "527611552321241127"
+      }
+    },
+    {
+      "id": "1786750004310-bb0b34a113cd477690ed",
+      "replyTo": {
+        "id": "1786303691659-579f10ea92fd4033a68d",
+        "name": "kj",
+        "text": "I LOVE ISRAEL"
+      },
+      "text": "hi",
+      "ts": 1786750003889,
+      "user": {
+        "avatar": "",
+        "name": "Guest-acec",
+        "uid": "g-8b23ce0c27fd4d9facec"
+      }
+    },
+    {
+      "id": "1786770458735-06218caeaf2e4d74b3a5",
+      "text": "Hello all",
+      "ts": 1786770458708,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1320112738919514184/a29de6a88bfe885ff8dae69b90d1815a.png?size=64",
+        "name": "Vilão dos gurtes",
+        "uid": "1320112738919514184"
+      }
+    },
+    {
+      "id": "1786770489572-51c265af927348678598",
+      "text": "god night for all",
+      "ts": 1786770489540,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1320112738919514184/a29de6a88bfe885ff8dae69b90d1815a.png?size=64",
+        "name": "Vilão dos gurtes",
+        "uid": "1320112738919514184"
+      }
+    },
+    {
+      "id": "1786785009329-c63acfb07c394322b039",
+      "text": "@Mike Laurence not cool.",
+      "ts": 1786785009351,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/726861364848492596/66bf4b2db46e2f69226afbd01b2edfa4.png?size=64",
+        "name": "Caan",
+        "uid": "726861364848492596"
+      }
+    },
+    {
+      "id": "1786785013345-a59e7740f3954edd92c5",
+      "text": "HELLO",
+      "ts": 1786785013367,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/436321340304392222/cffad51a0a67647340db94e715e6b4b4.png?size=64",
+        "name": "reidlab",
+        "uid": "436321340304392222"
+      }
+    },
+    {
+      "id": "1786785026869-454a942b6abc4487842c",
+      "replyTo": {
+        "id": "1786749955842-0392ce1ef62c49f79b94",
+        "name": "Guest-acec",
+        "text": "fuck you"
+      },
+      "text": "why would you cuss",
+      "ts": 1786785026938,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "name": "J0C",
+        "uid": "911508279199416370"
+      }
+    },
+    {
+      "id": "1786785037613-ba6f813bb51149d09942",
+      "text": "@J0C Imma pack you",
+      "ts": 1786785037632,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/436321340304392222/cffad51a0a67647340db94e715e6b4b4.png?size=64",
+        "name": "reidlab",
+        "uid": "436321340304392222"
+      }
+    },
+    {
+      "id": "1786785047863-14967d81dafc4d0c95d9",
+      "replyTo": {
+        "id": "1786440141483-ea10300f50ee4acf96fa",
+        "name": "Parasite dwelling in omega gooch",
+        "text": "This girl has a mommy voice though 😳"
+      },
+      "text": ".",
+      "ts": 1786785047899,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "name": "J0C",
+        "uid": "911508279199416370"
+      }
+    },
+    {
+      "id": "1786785048083-6b0b7a5e75ea414a8acc",
+      "text": "Hello!",
+      "ts": 1786785048103,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/406246384409378816/e0b25d53d335db2142f318eb7916f6c8.png?size=64",
+        "name": "worble shoring",
+        "uid": "406246384409378816"
+      }
+    },
+    {
+      "id": "1786785094779-df5d94b3f0394d1da5e5",
+      "text": "@【《ℍ𝕖𝕟𝕥𝕒𝕚 𝔾𝕠𝕕𝕕𝕖𝕤𝕤》】Glad to be with another child of god in this stream.",
+      "ts": 1786785094807,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/726861364848492596/66bf4b2db46e2f69226afbd01b2edfa4.png?size=64",
+        "name": "Caan",
+        "uid": "726861364848492596"
+      }
+    },
+    {
+      "id": "1786785130491-f9f0f82159c245d081c6",
+      "text": "What is Hentai?",
+      "ts": 1786785130517,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/406246384409378816/e0b25d53d335db2142f318eb7916f6c8.png?size=64",
+        "name": "worble shoring",
+        "uid": "406246384409378816"
+      }
+    },
+    {
+      "id": "1786785131622-f858c69e8ea144c9a91f",
+      "replyTo": {
+        "id": "1786303567403-515fcbd639fe43de8bc3",
+        "name": "kj",
+        "text": "FATHER CANCER"
+      },
+      "text": "?",
+      "ts": 1786785131674,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "name": "J0C",
+        "uid": "911508279199416370"
+      }
+    },
+    {
+      "id": "1786785158780-0a35148fbf9b4f62ab46",
+      "text": "God bless Israel Jesus Save them",
+      "ts": 1786785158800,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/406246384409378816/e0b25d53d335db2142f318eb7916f6c8.png?size=64",
+        "name": "worble shoring",
+        "uid": "406246384409378816"
+      }
+    },
+    {
+      "id": "1786785176628-053100578d664384a9f6",
+      "text": "@worble shoring @worble shoring @worble shoring @worble shoring Hello",
+      "ts": 1786785176650,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/406246384409378816/e0b25d53d335db2142f318eb7916f6c8.png?size=64",
+        "name": "worble shoring",
+        "uid": "406246384409378816"
+      }
+    },
+    {
+      "id": "1786803203091-c80ddf468b0e4d8db716",
+      "text": "hsi",
+      "ts": 1786803203108,
+      "user": {
+        "avatar": "",
+        "name": "Guest-975d",
+        "uid": "g-c8216fd103174685975d"
+      }
+    },
+    {
+      "id": "1786839330764-21a5ae36ada54f349d17",
+      "text": "Hello",
+      "ts": 1786839324148,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/120900601935691776/e68d65c71e9d22d55f54ebd247ef701c.png?size=64",
+        "name": "Pogux",
+        "uid": "120900601935691776"
+      }
+    },
+    {
+      "id": "1786909843160-9518f6ebc0fe453d8678",
+      "replyTo": {
+        "id": "1786839330764-21a5ae36ada54f349d17",
+        "name": "Pogux",
+        "text": "Hello"
+      },
+      "text": "Hi Pogux, may the Lord be with you",
+      "ts": 1786909838822,
+      "user": {
+        "avatar": "",
+        "name": "Guest-9539",
+        "uid": "g-fa849cb0cbcb46ee9539"
+      }
+    },
+    {
+      "id": "1786909859437-fc8c64c01cc84bdfa406",
+      "text": "stfu dave",
+      "ts": 1786909862911,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/269503541901524994/400c255826a9b1d33baa12c8181de85d.png?size=64",
+        "name": "Lovate",
+        "uid": "269503541901524994"
+      }
+    },
+    {
+      "id": "1786909881806-124d500dd4b14c74a2e4",
+      "replyTo": {
+        "id": "1786909859437-fc8c64c01cc84bdfa406",
+        "name": "Lovate",
+        "text": "stfu dave"
+      },
+      "text": "I shall forgive you for your sinful ways.",
+      "ts": 1786909877470,
+      "user": {
+        "avatar": "",
+        "name": "Guest-9539",
+        "uid": "g-fa849cb0cbcb46ee9539"
+      }
+    },
+    {
+      "id": "1786909893437-11fe99cb1a9946cfa851",
+      "replyTo": {
+        "id": "1786909881806-124d500dd4b14c74a2e4",
+        "name": "Guest-9539",
+        "text": "I shall forgive you for your sinful ways."
+      },
+      "text": "what sinful ways",
+      "ts": 1786909896913,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/269503541901524994/400c255826a9b1d33baa12c8181de85d.png?size=64",
+        "name": "Lovate",
+        "uid": "269503541901524994"
+      }
+    },
+    {
+      "id": "1786909913153-2bf359c6b0aa4492a03f",
+      "text": "all hail netanyahu o7",
+      "ts": 1786909913114,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/524259464375697430/e184609bea6b8352334a9659b14bc35e.png?size=64",
+        "name": "HannahBugzzz",
+        "uid": "524259464375697430"
+      }
+    },
+    {
+      "id": "1786909915305-97f02c825de046e0b75a",
+      "text": "A men :drooling_face:",
+      "ts": 1786909915134,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/370332091738619904/27e0e6d94d4244f95b1a642ae1ef5de4.png?size=64",
+        "name": "ZanymemerXD",
+        "uid": "370332091738619904"
+      }
+    },
+    {
+      "id": "1787063756037-c588fd07f4fe48f28898",
+      "text": "FREE PALESTINE 🇵🇸",
+      "ts": 1787063756761,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1121708231731970078/6a6bd0db0422fbb5fa67ec6c3fc0f6ae.png?size=64",
+        "name": "Tedd",
+        "uid": "1121708231731970078"
+      }
+    },
+    {
+      "id": "1787110415327-744c71bb748649f3a4b4",
+      "text": "jesus christ what is this song",
+      "ts": 1787110416171,
+      "user": {
+        "avatar": "",
+        "name": "Guest-8890",
+        "uid": "g-9dad9d8c05c54f7e8890"
+      }
+    },
+    {
+      "id": "1787110483491-1cce446f80d446d88bea",
+      "text": "Feeling inspired 🙌🐷",
+      "ts": 1787110483675,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/330372920675270658/d0bbe207f143a54eaf3098829db0504c.png?size=64",
+        "name": "roughrider22",
+        "uid": "330372920675270658"
+      }
+    },
+    {
+      "id": "1787162656487-eba87d8d47e4497884c1",
+      "text": "im starting seeing jesus guys",
+      "ts": 1787162656627,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1347302276708044831/c49d55c3bb3c6e8627d3b996fd5e8516.png?size=64",
+        "name": "Adri",
+        "uid": "1347302276708044831"
+      }
+    },
+    {
+      "id": "1787262523374-4df07a97ea374b179116",
+      "text": "Hello all",
+      "ts": 1787262523511,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/477949322671947776/f917625717c5085e679dde021d4ec8bf.png?size=64",
+        "name": "Axiom",
+        "uid": "477949322671947776"
+      }
+    },
+    {
+      "id": "1787326426139-2c3271459b4f49d5ab72",
+      "text": "sebab tuhan baik",
+      "ts": 1787326427226,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/521103460595138563/74f2fd8b32a5eee6e359883e98deaaa5.png?size=64",
+        "name": "epos",
+        "uid": "521103460595138563"
+      }
+    },
+    {
+      "id": "1787326488230-92f3103f75154cd18c46",
+      "text": "@arkk",
+      "ts": 1787326489321,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/521103460595138563/74f2fd8b32a5eee6e359883e98deaaa5.png?size=64",
+        "name": "epos",
+        "uid": "521103460595138563"
+      }
+    },
+    {
+      "id": "1787335515063-4ba9fc0cac40475da0b8",
+      "text": "hii",
+      "ts": 1787335515436,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1493350987706929406/4388a64dde69b7871b5fc5fda333ea96.png?size=64",
+        "name": "♡₊˚ 𝕽𝖊𝖟𝖊 ˚₊♡",
+        "uid": "1493350987706929406"
+      }
+    },
+    {
+      "id": "1787344723750-7e781ec7ffc54b42ae1c",
+      "text": "@kj how we doing today my friend? Peace be with you",
+      "ts": 1787344803971,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/268884561147068436/bfa72beeeb9567542dbaa585fa9a5da7.png?size=64",
+        "name": "TheJK314",
+        "uid": "268884561147068436"
+      }
+    },
+    {
+      "id": "1787344804282-a47a98581efe47cc8513",
+      "text": "this shits fire",
+      "ts": 1787344806391,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+        "name": "CheeseburgerPhil",
+        "uid": "144485098585063424"
+      }
+    },
+    {
+      "id": "1787344737638-121b9bf2c6e24fe79dc6",
+      "text": "admin?",
+      "ts": 1787344817842,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/268884561147068436/bfa72beeeb9567542dbaa585fa9a5da7.png?size=64",
+        "name": "TheJK314",
+        "uid": "268884561147068436"
+      }
+    },
+    {
+      "id": "1787344826312-93d07169031946d9b15b",
+      "text": "no swearing please",
+      "ts": 1787344826412,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144641603275980800/51fe8e166b87321db773499074a879d2.png?size=64",
+        "name": "CurdyKelp",
+        "uid": "144641603275980800"
+      }
+    },
+    {
+      "id": "1787344826330-fcc34ef2f6774ca18d8d",
+      "text": "metro boomin want some more",
+      "ts": 1787344828436,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+        "name": "CheeseburgerPhil",
+        "uid": "144485098585063424"
+      }
+    },
+    {
+      "id": "1787344833829-2a5a413fa81545be8618",
+      "text": "God is present",
+      "ts": 1787344833931,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144641603275980800/51fe8e166b87321db773499074a879d2.png?size=64",
+        "name": "CurdyKelp",
+        "uid": "144641603275980800"
+      }
+    },
+    {
+      "id": "1787344844210-5dda3d0cec6b49808fff",
+      "text": "can i get the aux?",
+      "ts": 1787344846317,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+        "name": "CheeseburgerPhil",
+        "uid": "144485098585063424"
+      }
+    },
+    {
+      "id": "1787344863942-95945844b65d403cb2ce",
+      "text": "throw on that new lil baby",
+      "ts": 1787344866045,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+        "name": "CheeseburgerPhil",
+        "uid": "144485098585063424"
+      }
+    },
+    {
+      "id": "1787344879498-54401fb424d9496ab12e",
+      "text": "AI is demonic and a pathway to the Antichrist",
+      "ts": 1787344879586,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144641603275980800/51fe8e166b87321db773499074a879d2.png?size=64",
+        "name": "CurdyKelp",
+        "uid": "144641603275980800"
+      }
+    },
+    {
+      "id": "1787344805015-bdcdfca336fb41c08020",
+      "text": "@kj peace be with you. Do you know of your lord and savior Jesus Epstein Christ?",
+      "ts": 1787344885224,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/268884561147068436/bfa72beeeb9567542dbaa585fa9a5da7.png?size=64",
+        "name": "TheJK314",
+        "uid": "268884561147068436"
+      }
+    },
+    {
+      "id": "1787344829238-eaa67ba7f608433cac12",
+      "text": "@kj you feeling this?! I have chills",
+      "ts": 1787344909434,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/268884561147068436/bfa72beeeb9567542dbaa585fa9a5da7.png?size=64",
+        "name": "TheJK314",
+        "uid": "268884561147068436"
+      }
+    },
+    {
+      "id": "1787344910676-c7fca3ddb2bc42bf85cf",
+      "text": "is this the guy that does the charlie kirk song?",
+      "ts": 1787344912780,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/144485098585063424/0c83455d4da9626a9578c110b2f526e4.png?size=64",
+        "name": "CheeseburgerPhil",
+        "uid": "144485098585063424"
+      }
+    },
+    {
+      "id": "1787378448374-1e33a7a1601b44a8a9d1",
+      "replyTo": {
+        "id": "1787344910676-c7fca3ddb2bc42bf85cf",
+        "name": "CheeseburgerPhil",
+        "text": "is this the guy that does the charlie kirk song?"
+      },
+      "text": "of course",
+      "ts": 1787378448413,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378465735-dff0549bd83646ceac7e",
+      "text": "this shit is gassss",
+      "ts": 1787378465786,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378490279-1a7637f5a31b4d588427",
+      "text": "Israel bad",
+      "ts": 1787378490403,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378501229-3e2f8ae6ba0c4938a2f5",
+      "text": "israel terrible",
+      "ts": 1787378501264,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378540257-66c187684761432b8ad3",
+      "text": "skip this song bro",
+      "ts": 1787378540299,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378550033-cb132b1779694e788de9",
+      "text": "Ur going to hell for that",
+      "ts": 1787378550145,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378567085-eba702e4000d47ceb142",
+      "text": "im so fucking sorry",
+      "ts": 1787378567127,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378570368-aa861dd701b8478aa68a",
+      "text": "i repent",
+      "ts": 1787378570426,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378580871-77c0bcc04cd14cbe8630",
+      "text": "I’m praying for your doom rn",
+      "ts": 1787378580992,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378689894-0b278c3990cf4eb7a00e",
+      "replyTo": {
+        "id": "1787378567085-eba702e4000d47ceb142",
+        "name": "Zoe",
+        "text": "im so fucking sorry"
+      },
+      "text": "im sorry for praying",
+      "ts": 1787378689929,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378692732-a6d174cf825a45cab341",
+      "text": "*swearing",
+      "ts": 1787378692777,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378699835-0ed092cd1afa4c6d9db4",
+      "text": "Lmfao",
+      "ts": 1787378699950,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378707873-2029fd57c08b4f3f968d",
+      "text": "woah is that cuss word",
+      "ts": 1787378707918,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378715594-4d227764a0434e1bb8bb",
+      "text": "no saying cuss words guys",
+      "ts": 1787378715633,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378716348-8244c41021d147aaaa64",
+      "text": "Yeah",
+      "ts": 1787378716468,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378739079-352e47a5938e4c1ea6ab",
+      "text": "i love jesus heartemoji heartemoji",
+      "ts": 1787378739120,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787378768276-371da5bc6bc641a2aabb",
+      "text": "I heart jesus",
+      "ts": 1787378768408,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378777526-e8c705bcbd354e44b3ae",
+      "text": "But this song is boring",
+      "ts": 1787378777626,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378792163-ac19d3929f3b46d9b02c",
+      "text": "Play sum 100 gecs",
+      "ts": 1787378792295,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787378984532-71182cc2f741443ba1b4",
+      "text": "I love number of the beast by Iron Maiden",
+      "ts": 1787378984601,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1402367826156720220/00a2dfc4689db4b4d64c8cdebf58957d.png?size=64",
+        "name": "XanthosR",
+        "uid": "1402367826156720220"
+      }
+    },
+    {
+      "id": "1787378993049-ecd6682eafb04abf8b8d",
+      "text": "🤘",
+      "ts": 1787378993111,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1402367826156720220/00a2dfc4689db4b4d64c8cdebf58957d.png?size=64",
+        "name": "XanthosR",
+        "uid": "1402367826156720220"
+      }
+    },
+    {
+      "id": "1787379041639-b72893e6d7a44adf8a53",
+      "text": "That’s #devilmusic and u need to spend more time in bible songs if you don’t want to burn for eternity",
+      "ts": 1787379041738,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379045106-3217aeb9fbb147429a9c",
+      "replyTo": {
+        "id": "1787378984532-71182cc2f741443ba1b4",
+        "name": "XanthosR",
+        "text": "I love number of the beast by Iron Maiden"
+      },
+      "text": "thats not very holy of you",
+      "ts": 1787379045152,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379603490-5497f800b69b4bc18227",
+      "text": "Psalms 46 kinda fire lowk",
+      "ts": 1787379603569,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379609232-103f5c527f3a4ec38bf9",
+      "text": "psalms 136 better",
+      "ts": 1787379609276,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379615815-5523068ac90044a99774",
+      "text": "i heart jesus",
+      "ts": 1787379615849,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379654578-08d9bdc35cee490881f0",
+      "text": "Sorry to any genuine Jesus fans in this chat, wish I could unsend messages but I cant",
+      "ts": 1787379654670,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379670798-7d598d12139b4b1e8401",
+      "text": "It’s kinda like sins in a way, can’t undo em",
+      "ts": 1787379670892,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379705535-a669f6f1ea8146b89107",
+      "text": "But anyways sorry for disrespecting your holy chat",
+      "ts": 1787379705632,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379716053-ee1e8b12658d4b269677",
+      "text": "This song is FIRE",
+      "ts": 1787379716188,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787379729011-f8f525452da2432da559",
+      "text": "linkin park reminiscent",
+      "ts": 1787379729041,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379794765-65898b4774b64d25aff6",
+      "text": "oh my god psalms 67",
+      "ts": 1787379794796,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379798036-fd43982cc26a430ab533",
+      "text": "676767676767",
+      "ts": 1787379798069,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787379817248-90998511aed84ea9b58b",
+      "text": "Psalms 67 hahahah 🫲😛🫱",
+      "ts": 1787379817348,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787380905911-3d2152ca5b3c4acca35b",
+      "text": "Guys Charles Guiteau was acting in the name of the lord and never did anything wrong",
+      "ts": 1787380905971,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787381277121-43db8ef2a89d4b3ab6e6",
+      "text": "He was a true Christian",
+      "ts": 1787381277172,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787390512674-f1ada5bf7dc14804858a",
+      "text": "This is tuff",
+      "ts": 1787390512764,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787391341958-f9a87eadb8db422b87ac",
+      "text": "i HATE psalm 136 song",
+      "ts": 1787391341993,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787391369995-d588c0de70374278a644",
+      "text": "ive been listenign to these bible songs for two and a half hours now and that one is by far the worst",
+      "ts": 1787391370026,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/960596638869635102/0619f1cf42a6a92bf214353fed4499fe.png?size=64",
+        "name": "Zoe",
+        "uid": "960596638869635102"
+      }
+    },
+    {
+      "id": "1787393088182-6a13552156bf4d5ea9cc",
+      "text": "Trvke",
+      "ts": 1787393088306,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787393126681-0ecbc12ef1d44ca3befa",
+      "text": "Free Palestine btw",
+      "ts": 1787393126795,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1247592470682927148/77b76358330e581e891c527a36f76c25.png?size=64",
+        "name": "Odie",
+        "uid": "1247592470682927148"
+      }
+    },
+    {
+      "id": "1787486474507-4c595ccfda1649fda0b9",
+      "text": "free israel",
+      "ts": 1787486474546,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1540877545434783836/00ee13368dab36e068972d2d48cc71a3.png?size=64",
+        "name": "さげまん",
+        "uid": "1540877545434783836"
+      }
+    },
+    {
+      "id": "1787486481529-7a58d4fc9e104576b69c",
+      "text": "@さげまん i agree",
+      "ts": 1787486481583,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1540877545434783836/00ee13368dab36e068972d2d48cc71a3.png?size=64",
+        "name": "さげまん",
+        "uid": "1540877545434783836"
+      }
+    },
+    {
+      "id": "1787497573819-b5c16444b1574c20bfef",
+      "text": "Free Big yahi",
+      "ts": 1787497623044,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/935601419690598421/a8f24a0c111ddbb93efff1f03d107840.png?size=64",
+        "name": "Drago",
+        "uid": "935601419690598421"
+      }
+    },
+    {
+      "id": "1787497627845-50e38b2f73de43d584aa",
+      "text": "freedrago",
+      "ts": 1787497627856,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/756045197942587482/32626b4f1967d72114fcc67c80d01169.png?size=64",
+        "name": "barata man",
+        "uid": "756045197942587482"
+      }
+    },
+    {
+      "id": "1787497634786-ddb652c425644ae4b326",
+      "text": "freedrago",
+      "ts": 1787497635270,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/799004719145287721/2f8627e3a1c532a028a15063dc1d7b59.png?size=64",
+        "name": "baurus23",
+        "uid": "799004719145287721"
+      }
+    },
+    {
+      "id": "1787497599548-aa7140c1a1a64107a576",
+      "text": "Free ROMANIA",
+      "ts": 1787497648767,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/935601419690598421/a8f24a0c111ddbb93efff1f03d107840.png?size=64",
+        "name": "Drago",
+        "uid": "935601419690598421"
+      }
+    },
+    {
+      "id": "1787497653149-32bffed1bf594e38880b",
+      "text": "free diddy",
+      "ts": 1787497653145,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/756045197942587482/32626b4f1967d72114fcc67c80d01169.png?size=64",
+        "name": "barata man",
+        "uid": "756045197942587482"
+      }
+    },
+    {
+      "id": "1787497661958-603d5145e5e1467ab416",
+      "text": "drago is an AI",
+      "ts": 1787497661956,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/756045197942587482/32626b4f1967d72114fcc67c80d01169.png?size=64",
+        "name": "barata man",
+        "uid": "756045197942587482"
+      }
+    },
+    {
+      "id": "1787497661711-e376801bc0354c57ad29",
+      "text": "free diddy",
+      "ts": 1787497662145,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/799004719145287721/2f8627e3a1c532a028a15063dc1d7b59.png?size=64",
+        "name": "baurus23",
+        "uid": "799004719145287721"
+      }
+    },
+    {
+      "id": "1787592685016-675af04e67274eaeb382",
+      "text": "h",
+      "ts": 1787592684845,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/982348088763088926/3aea918cbdc6713cac09d709b941fc4d.png?size=64",
+        "name": "Dueño",
+        "uid": "982348088763088926"
+      }
+    },
+    {
+      "id": "1787656643144-d6a4ee686a9c47d4998c",
+      "text": "this is fire",
+      "ts": 1787656643616,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/148358653383016448/0b156cbdbf5cc05b61ebb2d4811b7195.png?size=64",
+        "name": "GruntsAndElites",
+        "uid": "148358653383016448"
+      }
+    },
+    {
+      "id": "1787656648474-f4e97c24996b40ae87e4",
+      "text": "this is so good ! amen",
+      "ts": 1787656648452,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+        "name": "SmallBoyKyle",
+        "uid": "283462582386425856"
+      }
+    },
+    {
+      "id": "1787656654278-5e85ccc16f9d4c05a21e",
+      "text": "keen for psalm 113",
+      "ts": 1787656654756,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/148358653383016448/0b156cbdbf5cc05b61ebb2d4811b7195.png?size=64",
+        "name": "GruntsAndElites",
+        "uid": "148358653383016448"
+      }
+    },
+    {
+      "id": "1787656683784-4afebad5daf44dc18dc7",
+      "text": "the radio in my 1968 chevy doesnt play tracks like this anymore",
+      "ts": 1787656683764,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+        "name": "SmallBoyKyle",
+        "uid": "283462582386425856"
+      }
+    },
+    {
+      "id": "1787656685535-3dabe23c22c540598252",
+      "text": "rip",
+      "ts": 1787656685513,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+        "name": "SmallBoyKyle",
+        "uid": "283462582386425856"
+      }
+    },
+    {
+      "id": "1787656729689-d33a7f0f0d6e4f968ddf",
+      "text": "holy moly im gooning it off right now",
+      "ts": 1787656729667,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+        "name": "SmallBoyKyle",
+        "uid": "283462582386425856"
+      }
+    },
+    {
+      "id": "1787656750600-a482eef51c214928bc0a",
+      "text": "this ai goy slop is bringing out thesauce in me",
+      "ts": 1787656750574,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/283462582386425856/1d2d86e3d011aa04c7834807e6a0332b.png?size=64",
+        "name": "SmallBoyKyle",
+        "uid": "283462582386425856"
+      }
+    },
+    {
+      "id": "1787930657705-3c7e6e01a08440648a81",
+      "text": "Nigglers",
+      "ts": 1787930657795,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1351443150153187404/b2c4c05925afadbe291d18853358e8f4.png?size=64",
+        "name": "jargan…",
+        "uid": "1351443150153187404"
+      }
+    },
+    {
+      "id": "1787968690335-9164762ee01f485699f0",
+      "text": "alright bro",
+      "ts": 1787968690423,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1150464171297742858/b5ec86111ddde1ac192cbe844122dc5b.png?size=64",
+        "name": "precisely",
+        "uid": "1150464171297742858"
+      }
+    },
+    {
+      "id": "1787968698020-20f2488d99104ddca2d1",
+      "text": "god bless you bro",
+      "ts": 1787968698093,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1150464171297742858/b5ec86111ddde1ac192cbe844122dc5b.png?size=64",
+        "name": "precisely",
+        "uid": "1150464171297742858"
+      }
+    },
+    {
+      "id": "1788000288170-af020d98035646aea711",
+      "text": "52 chicken nuggets",
+      "ts": 1788000288207,
+      "user": {
+        "avatar": "",
+        "name": "Guest-b568",
+        "uid": "g-f0a92ae1766349f7b568"
+      }
+    },
+    {
+      "id": "1788029155335-a482943e15214e2ea28d",
+      "text": "hello",
+      "ts": 1788029148396,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029156517-eb218884671c4609ba2a",
+      "text": "GOD BLESS YOU ALL",
+      "ts": 1788029156339,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029146889-fe053c58d575490cb58f",
+      "text": "May allah find u",
+      "ts": 1788029166048,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/145974126480195584/4c032bb7a72429234cacbd637d8a28bc.png?size=64",
+        "name": "Hazzerer_",
+        "uid": "145974126480195584"
+      }
+    },
+    {
+      "id": "1788029188705-13ac7c6829e34bf896d2",
+      "text": "MAY JESUS BLESS YOU ALL!!!!",
+      "ts": 1788029181894,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029184852-f826789253dd4579af51",
+      "text": "hello my fello biblers",
+      "ts": 1788029186631,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029213040-d0d87c21ea4d4c68ba71",
+      "text": "I'll drink to that",
+      "ts": 1788029213235,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/772176227414310963/99813cad67c5c15b0cfaaf3e90f27575.png?size=64",
+        "name": "teddo",
+        "uid": "772176227414310963"
+      }
+    },
+    {
+      "id": "1788029218285-04f6d8033e184d8b8ab4",
+      "text": "Leviticus 18:22 and 20:13: These verses in the Torah state that a man lying with another man \"as with a woman\" is an abomination and outline strict legal punishments in ancient Israel.",
+      "ts": 1788029218113,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029226311-44b4a1059607446aaf87",
+      "text": "as a furry femboy will il be axepted",
+      "ts": 1788029228090,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029212914-44a7ae9846534196bafa",
+      "text": "@Chlloe Amen",
+      "ts": 1788029232071,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/145974126480195584/4c032bb7a72429234cacbd637d8a28bc.png?size=64",
+        "name": "Hazzerer_",
+        "uid": "145974126480195584"
+      }
+    },
+    {
+      "id": "1788029243218-68db1f161f7c49fcb008",
+      "replyTo": {
+        "id": "1788029218285-04f6d8033e184d8b8ab4",
+        "name": "Chlloe",
+        "text": "Leviticus 18:22 and 20:13: These verses in the Torah state that a man lying with another man \"as with a woman\" is an abo"
+      },
+      "text": "AMEN SISTER!",
+      "ts": 1788029236265,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029238189-14f6327c6aef47c1a042",
+      "text": "@Labrador Vibes yes",
+      "ts": 1788029238386,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/772176227414310963/99813cad67c5c15b0cfaaf3e90f27575.png?size=64",
+        "name": "teddo",
+        "uid": "772176227414310963"
+      }
+    },
+    {
+      "id": "1788029259458-e11aa4ec8cba48ffabff",
+      "text": "jesus got that foot fetish y'all",
+      "ts": 1788029252896,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/248875936416661504/ad78ae3fe918928a0a01d56f4838bcbe.png?size=64",
+        "name": "Gabby",
+        "uid": "248875936416661504"
+      }
+    },
+    {
+      "id": "1788029255663-c658991ea8af46babf17",
+      "text": "i feel so devoted right now",
+      "ts": 1788029255482,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029263379-75cf3c687a2449ea8ebd",
+      "text": "mighty grace take me into heaven",
+      "ts": 1788029263210,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029264382-e4402a828fcc4a19aa08",
+      "text": "amen",
+      "ts": 1788029264206,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029264792-692ad26ade9f4d93abcf",
+      "text": "meow",
+      "ts": 1788029265295,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/699022074676510761/89b159ed51c91efd3e5156ce564da354.png?size=64",
+        "name": "Em_Zeroo",
+        "uid": "699022074676510761"
+      }
+    },
+    {
+      "id": "1788029286663-841df3b563cd4b00bcb6",
+      "text": "holy spirit activate",
+      "ts": 1788029279720,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029263660-fd520b75be244540894b",
+      "text": "Cant believe they got recordings of pre transition jeusus for these songs",
+      "ts": 1788029282813,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/145974126480195584/4c032bb7a72429234cacbd637d8a28bc.png?size=64",
+        "name": "Hazzerer_",
+        "uid": "145974126480195584"
+      }
+    },
+    {
+      "id": "1788029288361-a08a847fb2294b57b3f3",
+      "text": "HALLEJEWYA",
+      "ts": 1788029290142,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029307373-919b7d1214634bf6bdec",
+      "text": "dj jesus",
+      "ts": 1788029307879,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/699022074676510761/89b159ed51c91efd3e5156ce564da354.png?size=64",
+        "name": "Em_Zeroo",
+        "uid": "699022074676510761"
+      }
+    },
+    {
+      "id": "1788029310389-e303883c40084c05b507",
+      "text": "so when did jesus record these",
+      "ts": 1788029310587,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/772176227414310963/99813cad67c5c15b0cfaaf3e90f27575.png?size=64",
+        "name": "teddo",
+        "uid": "772176227414310963"
+      }
+    },
+    {
+      "id": "1788029323629-aadebfb35aab436e9ff6",
+      "text": "These letters use Greek terms (such as arsenokoitai) that are translated in various modern Bibles to refer to men who practice homosexual intercourse, listing them among those who will not inherit the kingdom of God without repentance.",
+      "ts": 1788029323446,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029329482-d3db1a15da444116810d",
+      "text": "whens the next album release Big J ?",
+      "ts": 1788029331266,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029338059-8c6be279350b446f9ce6",
+      "text": "i wonder how many inches it was",
+      "ts": 1788029338569,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/699022074676510761/89b159ed51c91efd3e5156ce564da354.png?size=64",
+        "name": "Em_Zeroo",
+        "uid": "699022074676510761"
+      }
+    },
+    {
+      "id": "1788029353827-412c17bd3198409ba815",
+      "text": "5",
+      "ts": 1788029353642,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029373606-e6233700b67d4fefbbb4",
+      "text": "back when they recorded this, they where using 4\" floppy disks",
+      "ts": 1788029375391,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029393292-00df944bc7ac469d8155",
+      "text": "love from satan",
+      "ts": 1788029386344,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029397633-98aefed063ae49038005",
+      "text": "please dont disrespect my lord",
+      "ts": 1788029397478,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029401233-00302e0a705042d9b3cd",
+      "text": "my savior",
+      "ts": 1788029401051,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029406065-62b56ca7f7544e2b851f",
+      "text": "i was nothing before god",
+      "ts": 1788029405904,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029416943-115fb11de51e48febe17",
+      "text": "lord farquaad VERSUS.... THE LOOOOOOORDD - BEGIN!",
+      "ts": 1788029418723,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/530900024675270676/cb84cb2e2440f7d0ddaccc4d3f2e507f.png?size=64",
+        "name": "Labrador Vibes",
+        "uid": "530900024675270676"
+      }
+    },
+    {
+      "id": "1788029429560-a9dd55ac4e024777831d",
+      "text": "may satan smite you all",
+      "ts": 1788029422613,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/738856120063623242/32a53c6a3fcde3e2ebfe17b67a129907.png?size=64",
+        "name": "Cheeseburgr",
+        "uid": "738856120063623242"
+      }
+    },
+    {
+      "id": "1788029431848-e35c27a205574dfab06d",
+      "text": "i've got to go, god bless you all",
+      "ts": 1788029431670,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/811006016232751146/bbc07a27fbe3feb1191d7c8c5a875252.png?size=64",
+        "name": "Chlloe",
+        "uid": "811006016232751146"
+      }
+    },
+    {
+      "id": "1788029433595-a10dacc46d074e01b938",
+      "text": "church cooked dinner bangs",
+      "ts": 1788029434105,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/699022074676510761/89b159ed51c91efd3e5156ce564da354.png?size=64",
+        "name": "Em_Zeroo",
+        "uid": "699022074676510761"
+      }
+    },
+    {
+      "id": "1788040975285-db4921d6a35b49ff8e98",
+      "text": "yo bouncing",
+      "ts": 1788040977051,
+      "user": {
+        "avatar": "",
+        "name": "Guest-a404",
+        "uid": "g-e37433b1a5b54c98a404"
+      }
+    },
+    {
+      "id": "1788040992728-bd871325f5a0491891bc",
+      "text": "@okmasq  wsg",
+      "ts": 1788040994493,
+      "user": {
+        "avatar": "",
+        "name": "Guest-a404",
+        "uid": "g-e37433b1a5b54c98a404"
+      }
+    },
+    {
+      "id": "1788182638952-a902def325164e1e8d9f",
+      "text": "Play sonf",
+      "ts": 1788182639456,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1358031887909781544/b9ca518faad1a0e24114dbdf9654d857.png?size=64",
+        "name": "CG_KATUKURI",
+        "uid": "1358031887909781544"
+      }
+    },
+    {
+      "id": "1788182653931-2dd4902daa7f48809e67",
+      "text": "@CG_KATUKURI play a song",
+      "ts": 1788182654442,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1358031887909781544/b9ca518faad1a0e24114dbdf9654d857.png?size=64",
+        "name": "CG_KATUKURI",
+        "uid": "1358031887909781544"
+      }
+    },
+    {
+      "id": "1788220619260-75de318081864d3ebe17",
+      "text": "play a song",
+      "ts": 1788220480609,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1207832112640696320/142ae42e29c53c959f7ad8df654c6f4b.png?size=64",
+        "name": "R10",
+        "uid": "1207832112640696320"
+      }
+    },
+    {
+      "id": "1788220720204-4d17939451d1482d9fac",
+      "text": "algum br",
+      "ts": 1788220707620,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788220860041-77c23ac0528544089a14",
+      "text": "skibidi lala elle",
+      "ts": 1788220721449,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1207832112640696320/142ae42e29c53c959f7ad8df654c6f4b.png?size=64",
+        "name": "R10",
+        "uid": "1207832112640696320"
+      }
+    },
+    {
+      "id": "1788220746406-be8a9b49bcde4f099d13",
+      "text": "skibididi",
+      "ts": 1788220733834,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788220896509-4c4e639a41134cda927c",
+      "text": "listen to 4 big guys",
+      "ts": 1788220757848,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1207832112640696320/142ae42e29c53c959f7ad8df654c6f4b.png?size=64",
+        "name": "R10",
+        "uid": "1207832112640696320"
+      }
+    },
+    {
+      "id": "1788220902497-3dd5ae728c044e6d92c0",
+      "text": "good music",
+      "ts": 1788220763835,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1207832112640696320/142ae42e29c53c959f7ad8df654c6f4b.png?size=64",
+        "name": "R10",
+        "uid": "1207832112640696320"
+      }
+    },
+    {
+      "id": "1788221011933-4453068adcb1463ea1d6",
+      "text": "tuff",
+      "ts": 1788220999345,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788223173864-d24c18c946ce4fb9a996",
+      "text": "top 25 guys",
+      "ts": 1788223161292,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788223244829-195f9806f0f8464a8f31",
+      "text": "@Guest-a96e",
+      "ts": 1788223232247,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788223262399-b6efe516d2504e539348",
+      "text": "22",
+      "ts": 1788223249818,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788223284472-3c066d80207a41eda184",
+      "text": "21",
+      "ts": 1788223271901,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788223176881-eb4d4a67b46c4c06a211",
+      "text": "93",
+      "ts": 1788223272692,
+      "user": {
+        "avatar": "",
+        "name": "Guest-a96e",
+        "uid": "g-1009b8b79e464b6aa96e"
+      }
+    },
+    {
+      "id": "1788223315853-1026bf41a37845e3bfbe",
+      "text": "lixo horrivel",
+      "ts": 1788223303580,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/1196885861271351447/98c3cf83a8daced0bc3e3ffbaded1ffb.png?size=64",
+        "name": "Roble",
+        "uid": "1196885861271351447"
+      }
+    },
+    {
+      "id": "1788243221877-cf6671d361564104b7c8",
+      "text": "psalm down",
+      "ts": 1788243211165,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/335523352028381185/c02e548a7a5a20f20778aacd1fbb7922.png?size=64",
+        "name": "Polar Seltzer",
+        "uid": "335523352028381185"
+      }
+    },
+    {
+      "id": "1788243235564-78a306e8edb1496f8acb",
+      "text": "i'm psalm",
+      "ts": 1788243235677,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/107665382277410816/a_fa60c07ceb662b0e6d0b9b01de63d786.gif?size=64",
+        "name": "Frank",
+        "uid": "107665382277410816"
+      }
+    },
+    {
+      "id": "1788243279195-bf342d03da5b4b7d9707",
+      "replyTo": {
+        "id": "1788243221877-cf6671d361564104b7c8",
+        "name": "Polar Seltzer",
+        "text": "psalm down"
+      },
+      "text": "What do you mean?",
+      "ts": 1788243279338,
+      "user": {
+        "avatar": "https://cdn.discordapp.com/avatars/107665382277410816/a_fa60c07ceb662b0e6d0b9b01de63d786.gif?size=64",
+        "name": "Frank",
+        "uid": "107665382277410816"
+      }
+    },
+    {
+      "id": "1788397451668-i9fojo",
+      "text": "god bless you",
+      "ts": 1788397452913,
+      "user": {
+        "avatar": "",
+        "name": "Listener-CEOS",
+        "uid": "g-5sceos"
+      }
+    },
+    {
+      "id": "1788410969930-acdslz",
+      "text": "Can’t believe some loser took my spot in 4th place, I’m here to enact revenge",
+      "ts": 1788410970036,
+      "user": {
+        "avatar": "",
+        "name": "Listener-L1DT",
+        "uid": "g-wdl1dt"
+      }
+    },
+    {
+      "id": "1788411000077-2jq65x",
+      "text": "Volume slider is broken so I have to listen to it screaming in my ears while I’m trying to talk to my friends",
+      "ts": 1788411000170,
+      "user": {
+        "avatar": "",
+        "name": "Listener-L1DT",
+        "uid": "g-wdl1dt"
+      }
+    },
+    {
+      "id": "1788411009760-ev8ds3",
+      "text": ">:[",
+      "ts": 1788411009802,
+      "user": {
+        "avatar": "",
+        "name": "Listener-MIGO",
+        "uid": "g-y9migo"
+      }
+    },
+    {
+      "id": "1788411033783-4mm2zu",
+      "text": "Bro they banned me :’(",
+      "ts": 1788411033892,
+      "user": {
+        "avatar": "",
+        "name": "Listener-L1DT",
+        "uid": "g-wdl1dt"
+      }
+    },
+    {
+      "id": "1788411051818-2q9uo5",
+      "text": "All I said was free Palestine",
+      "ts": 1788411051917,
+      "user": {
+        "avatar": "",
+        "name": "Listener-L1DT",
+        "uid": "g-wdl1dt"
+      }
+    },
+    {
+      "id": "1788411109712-tgmx9n",
+      "text": "They banned us for speaking the truth",
+      "ts": 1788411109758,
+      "user": {
+        "avatar": "",
+        "name": "Listener-MIGO",
+        "uid": "g-y9migo"
+      }
+    },
+    {
+      "id": "1788411120291-jrqwi4",
+      "text": "almost like jesus...",
+      "ts": 1788411120327,
+      "user": {
+        "avatar": "",
+        "name": "Listener-MIGO",
+        "uid": "g-y9migo"
+      }
+    },
+    {
+      "id": "1788411150247-c581a3",
+      "text": "Sirhan Sirhan was based btw",
+      "ts": 1788411150366,
+      "user": {
+        "avatar": "",
+        "name": "Listener-L1DT",
+        "uid": "g-wdl1dt"
+      }
+    },
+    {
+      "id": "1788896195181-7xq0mg",
+      "text": "im rember when i was saved by my christ lord Joseph",
+      "ts": 1788896196053,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1788896210584-mowmmt",
+      "text": "aj zavrsi",
+      "ts": 1788896209057,
+      "user": {
+        "avatar": "",
+        "name": "Listener-WG3H",
+        "uid": "g-2cwg3h"
+      }
+    },
+    {
+      "id": "1788896222963-sddftx",
+      "text": "Niggeer",
+      "ts": 1788896223816,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1788896241158-2d2b2f",
+      "text": "sorry it was my litel brother on keyboards",
+      "ts": 1788896242025,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1788896251902-tj1wxc",
+      "replyTo": {
+        "id": "1788896222963-sddftx",
+        "name": "Listener-9LMI",
+        "text": "Niggeer"
+      },
+      "text": "Why this hate?",
+      "ts": 1788896255308,
+      "user": {
+        "avatar": "",
+        "name": "Listener-EMJ4",
+        "uid": "g-mxemj4"
+      }
+    },
+    {
+      "id": "1788896278711-j5r9lz",
+      "text": "@Listener-EMJ4 im sorry im sayed it my litel brother i go spank him",
+      "ts": 1788896279632,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1788896294232-s0bozd",
+      "text": "i love little children",
+      "ts": 1788896294274,
+      "user": {
+        "avatar": "",
+        "name": "Listener-5WOR",
+        "uid": "g-xz5wor"
+      }
+    },
+    {
+      "id": "1788896309927-0eou7w",
+      "text": "im introduce my borther to you ok??",
+      "ts": 1788896310779,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1788896321776-2mvt15",
+      "text": "he love big idiot",
+      "ts": 1788896322630,
+      "user": {
+        "avatar": "",
+        "name": "Listener-9LMI",
+        "uid": "g-ey9lmi"
+      }
+    },
+    {
+      "id": "1789594093876-g7t3le",
+      "text": "my name is benjamin netanyahu and this is my favourite discord activity",
+      "ts": 1789594094532,
+      "user": {
+        "avatar": "",
+        "name": "Listener-8568",
+        "uid": "g-665919920ae14de48568"
+      }
+    },
+    {
+      "id": "1789594108552-dbhj86",
+      "text": "jesus CAME inside me",
+      "ts": 1789594108365,
+      "user": {
+        "avatar": "",
+        "name": "Listener-1OTW",
+        "uid": "g-6q1otw"
+      }
+    },
+    {
+      "id": "1789594136919-e9q79c",
+      "text": "I can feel jesus coming inside me",
+      "ts": 1789594137086,
+      "user": {
+        "avatar": "",
+        "name": "Listener-LC2O",
+        "uid": "g-58lc2o"
+      }
+    },
+    {
+      "id": "1789594137148-cw4zos",
+      "text": "8 year olds hmu",
+      "ts": 1789594137887,
+      "user": {
+        "avatar": "",
+        "name": "Listener-LDUI",
+        "uid": "g-62ldui"
+      }
+    },
+    {
+      "id": "1789594148397-5uxhdh",
+      "text": "my dick is big and it keeps getting bigger",
+      "ts": 1789594147716,
+      "user": {
+        "avatar": "",
+        "name": "Listener-IUHR",
+        "uid": "g-y9iuhr"
+      }
+    },
+    {
+      "id": "1790018938331-4ly5k3",
+      "text": "what is that",
+      "ts": 1790018938575,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019167614-c6prq5",
+      "text": "Приехала бабушка в Америку. По-английски ни слова. И вот ей захотелось манной каши. Заходит она в магазин, а там продавец черный. Она подходит к нему и говорит: \"дай манки\"",
+      "ts": 1790019167865,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019173431-xw4z28",
+      "text": "Нихуя себе заявочка то есть ты думаешь ты это высрал и стал резко уважаемым чуваком кто то будет тебе руку жать и говорить какой ты красава оскарбуху просто так кинул. Да нихуя подобного ха ха блять сидит терпила по факту мразь просто некчёмное некакущее животное с имбецыльными наклонности пытается на меня бочку катить ты чем подумал вообще когда это говорил ты думаешь ты за мой счёт сможешь себя в общество поставить да никогда в жизни блять блять сидит сука две хромосом одна в запасе полторы в",
+      "ts": 1790019173684,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019181216-drxnw2",
+      "text": "Ублюдок, мать твою, а ну, иди сюда, говно собачье, а? Сдуру решил ко мне лезть, ты? Засранец вонючий, мать твою, а? Ну, иди сюда, попробуй меня трахнуть — я тебя сам трахну, ублюдок, онанист чёртов, будь ты проклят! Иди, идиот, трахать тебя и всю твою семью! Говно собачье, жлоб вонючий, дерьмо, сука, падла! Иди сюда, мерзавец, негодяй, гад! Иди сюда, ты, говно, жопа!",
+      "ts": 1790019181458,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019187176-w7qzie",
+      "text": "⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀⢴⣶⣶⣿⣿⣿⣆ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠙⠛⠛⠛⠋⠁⠀⠙⠻⠿⠟⠋⠑⠛⠋⠀",
+      "ts": 1790019187416,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019193289-a03xu1",
+      "text": "блин не вішло",
+      "ts": 1790019193538,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019198466-dmp604",
+      "text": "⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀⢴⣶⣶⣿⣿⣿⣆ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠙⠛⠛⠛⠋⠁⠀⠙⠻⠿⠟⠋⠑⠛⠋⠀",
+      "ts": 1790019198713,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790019203458-6fc1lf",
+      "text": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢀⣀⣀⣠⣤⣤⣀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀ ⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀ ⠀⠀⠀⠀⢀⣀⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢋⣭⡍⣿⣿⣿⣿⣿⣿⠀ ⠀⢀⣴⣶⣶⣝⢷⡝⢿⣿⣿⣿⠿⠛⠉⠀⠀⣰⣿⣿⢣⣿⣿⣿⣿⣿⣿⡇ ⢀⣾⣿⣿⣿⣿⣧⠻⡌⠿⠋⠁⠀⠀⠀⠀⢰⣿⣿⡏⣸⣿⣿⣿⣿⣿⣿⣿ ⣼⣿⣿⣿⣿⣿⣿⡇⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⠇⢻⣿⣿⣿⣿⣿⣿⡟ ⠙⢹⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⡿⠟",
+      "ts": 1790019203697,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790204396378-fgzu9d",
+      "text": "dima",
+      "ts": 1790204396403,
+      "user": {
+        "avatar": "",
+        "name": "Listener-XST3",
+        "uid": "g-h1xst3"
+      }
+    },
+    {
+      "id": "1790278752500-9rnq8x",
+      "text": "kakoy dima",
+      "ts": 1790278759685,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790451031199-6q8ojc",
+      "text": "dima otvet",
+      "ts": 1790451044186,
+      "user": {
+        "avatar": "",
+        "name": "Listener-3RWV",
+        "uid": "g-xu3rwv"
+      }
+    },
+    {
+      "id": "1790476272187-djaiw0",
+      "text": "Hail satan",
+      "ts": 1790476272400,
+      "user": {
+        "avatar": "",
+        "name": "Listener-2MRY",
+        "uid": "g-d32mry"
+      }
+    },
+    {
+      "id": "1791587762374-vhfpu4",
+      "text": "hi",
+      "ts": 1791587762447,
+      "user": {
+        "avatar": "",
+        "name": "Listener-JMY9",
+        "uid": "g-omjmy9"
+      }
+    },
+    {
+      "id": "1791989000273-26zng3",
+      "text": "🐖",
+      "ts": 1791989004537,
+      "user": {
+        "avatar": "",
+        "name": "Listener-FAS9",
+        "uid": "g-lwfas9"
+      }
+    },
+    {
+      "id": "1792188484076-lrg3m9",
+      "text": "AMEN",
+      "ts": 1792188484514,
+      "user": {
+        "avatar": "",
+        "name": "Listener-EAYM",
+        "uid": "g-nueaym"
+      }
+    },
+    {
+      "id": "1792188504731-ckai2k",
+      "text": "herro",
+      "ts": 1792188495336,
+      "user": {
+        "avatar": "",
+        "name": "Listener-FEEM",
+        "uid": "g-s0feem"
+      }
+    },
+    {
+      "id": "test-sync-1793028954",
+      "text": "Verification message to bible-songs-1",
+      "ts": 1793028954598,
+      "user": {
+        "uid": "g-s1",
+        "name": "Listener S1",
+        "avatar": ""
+      }
+    },
+    {
+      "id": "1793200740775-mv6hd8",
+      "text": "Hi",
+      "ts": 1793200740775,
+      "user": {
+        "avatar": "",
+        "name": "Listener S1",
+        "uid": "g-s1"
+      }
+    },
+    {
+      "id": "auth-test-msg-1",
+      "text": "Authenticated secret test message",
+      "ts": 1793201144325,
+      "user": {
+        "uid": "g-s1",
+        "name": "Listener S1",
+        "avatar": ""
+      }
+    }
+  ]
+}

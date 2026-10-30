@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-serif: "Cinzel", Georgia, serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    color: #f5f5f5;
+    background-color: #0a0502;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+}
+
+@keyframes spinSlow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-vinyl {
+  animation: 18s linear infinite spinSlow;
+}
+
+.animate-vinyl-paused {
+  animation-play-state: paused !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0502cc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f59e0b40;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b73;
+}

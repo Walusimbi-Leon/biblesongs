@@ -1,0 +1,8 @@
+{
+  "name": "Bible Songs — 24/7 SGSS Songs Stream",
+  "description": "24/7 synchronized streaming of SGSS songs with live audio player, community chat, music catalog, and real-time listener rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -2,10 +2,12 @@
  * Cloudflare Worker for Bible Songs (SGSS)
  * Target: https://bible-songs.walusimbileon1.workers.dev/
  *
- * Pre-configured with the new Firebase Realtime Database:
+ * Pre-configured with Firebase Realtime Database:
  * Database: https://bible-songs-1-default-rtdb.firebaseio.com/bible
  * Auth Secret: QHqRoEfLKuZQ4ewhKliHHOsQg06a0nXY8Qk0eHGO
  */
+
+import songsData from './server/data/songs.json';
 
 const FIREBASE_DB = 'https://bible-songs-1-default-rtdb.firebaseio.com/bible';
 const FIREBASE_SECRET = 'QHqRoEfLKuZQ4ewhKliHHOsQg06a0nXY8Qk0eHGO';
@@ -40,6 +42,22 @@ function isDiscordUser(uid, avatar) {
   return false;
 }
 
+// Build song lookup map for streaming
+const songMap = new Map();
+if (songsData && Array.isArray(songsData.rotation)) {
+  for (const s of songsData.rotation) {
+    if (s.id) songMap.set(s.id, s);
+    if (s.title) songMap.set(s.title, s);
+    if (s.versionTitle) songMap.set(s.versionTitle, s);
+    if (Array.isArray(s.versions)) {
+      for (const v of s.versions) {
+        if (v.id) songMap.set(v.id, v);
+        if (v.title) songMap.set(v.title, v);
+      }
+    }
+  }
+}
+
 export default {
   async fetch(request, env, ctx) {
     if (request.method === 'OPTIONS') {
@@ -49,7 +67,59 @@ export default {
     const url = new URL(request.url);
     const pathname = url.pathname;
 
-    // 1. Leaderboard endpoint
+    // 1. Synchronized Playback State API
+    if (pathname === '/api/sync') {
+      const now = Date.now();
+      const epoch = songsData.epoch || 1788247920000;
+      const cycleMs = songsData.cycleMs || 41204184;
+      const rotation = songsData.rotation || [];
+
+      const cycleOffset = ((now - epoch) % cycleMs + cycleMs) % cycleMs;
+      let accumulated = 0;
+      let current = null;
+      let nextSong = null;
+
+      for (let i = 0; i < rotation.length; i++) {
+        const s = rotation[i];
+        const dur = s.durationMs || 210000;
+        if (accumulated + dur >= cycleOffset) {
+          current = {
+            index: i,
+            id: s.id,
+            offsetMs: Math.max(0, cycleOffset - accumulated),
+            durationMs: dur,
+            song: s
+          };
+          nextSong = rotation[(i + 1) % rotation.length];
+          break;
+        }
+        accumulated += dur;
+      }
+
+      if (!current && rotation.length > 0) {
+        current = {
+          index: 0,
+          id: rotation[0].id,
+          offsetMs: 0,
+          durationMs: rotation[0].durationMs || 210000,
+          song: rotation[0]
+        };
+        nextSong = rotation[1] || rotation[0];
+      }
+
+      return jsonResponse({
+        epoch,
+        cycleMs,
+        now,
+        loop: Math.floor((now - epoch) / cycleMs),
+        current,
+        next: nextSong,
+        rotation,
+        count: rotation.length
+      });
+    }
+
+    // 2. Leaderboard endpoint
     if (pathname === '/api/leaderboard') {
       try {
         const res = await fetch(fbUrl('/users'));
@@ -62,7 +132,7 @@ export default {
       }
     }
 
-    // 2. Chat endpoint (GET: last 400 messages, POST: append message without deletion)
+    // 3. Chat endpoint (GET: last 400 messages, POST: append message without deletion)
     if (pathname === '/api/chat') {
       if (request.method === 'GET') {
         try {
@@ -71,7 +141,6 @@ export default {
           let messages = data ? Object.values(data) : [];
           messages.sort((a, b) => (a.ts || 0) - (b.ts || 0));
           const total = messages.length;
-          // Return only last 400 messages to eliminate lag while preserving all in DB
           if (messages.length > 400) {
             messages = messages.slice(-400);
           }
@@ -88,7 +157,6 @@ export default {
           if (!text || typeof text !== 'string' || !text.trim()) {
             return jsonResponse({ error: 'Text is required' }, 400);
           }
-
           const msgId = id || `${Date.now()}-${Math.random().toString(36).substring(2, 8)}`;
           const msg = {
             id: msgId,
@@ -106,13 +174,11 @@ export default {
             } : undefined
           };
 
-          // Save to Firebase Realtime Database
           await fetch(fbUrl(`/chat/${encodeURIComponent(msgId).replace(/\./g, '_')}`), {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(msg)
           });
-
           return jsonResponse({ ok: true, message: msg });
         } catch (err) {
           return jsonResponse({ error: 'Failed to post message' }, 500);
@@ -120,7 +186,7 @@ export default {
       }
     }
 
-    // 3. Register sequential listener (Listener S1, Listener S2... or keep Discord)
+    // 4. Register sequential listener (Listener S1, Listener S2... or keep Discord)
     if (pathname === '/api/register-listener' && request.method === 'POST') {
       try {
         const body = await request.json();
@@ -159,7 +225,6 @@ export default {
         const assignedUid = `g-s${nextNum}`;
         const assignedName = `Listener S${nextNum}`;
 
-        // Initialize user in /users
         await fetch(fbUrl(`/users/${assignedUid}`), {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
@@ -185,7 +250,7 @@ export default {
       }
     }
 
-    // 4. Presence and listening time heartbeat
+    // 5. Presence and listening time heartbeat (with strict null-safety check)
     if (pathname === '/api/presence' && request.method === 'POST') {
       try {
         const body = await request.json();
@@ -207,7 +272,7 @@ export default {
         const effectiveName = (name && name.trim()) || (isDiscord ? 'Discord User' : 'Listener S1');
         const safeUid = encodeURIComponent(effectiveUid).replace(/\./g, '_');
 
-        // Check previous beat in presence
+        // Check previous beat in presence with safe null guard
         const prevRes = await fetch(fbUrl(`/presence/${safeSessionId}`));
         const prevData = await prevRes.json();
 
@@ -215,10 +280,10 @@ export default {
           const deltaMs = now - prevData.lastBeat;
           if (deltaMs > 0 && deltaMs < 60_000) {
             const secondsToAdd = deltaMs / 1000;
-            // Fetch and update user seconds
             const uRes = await fetch(fbUrl(`/users/${safeUid}`));
             const uData = await uRes.json();
             const currentSeconds = (uData && typeof uData.seconds === 'number') ? uData.seconds : 0;
+
             await fetch(fbUrl(`/users/${safeUid}`), {
               method: 'PUT',
               headers: { 'Content-Type': 'application/json' },
@@ -252,7 +317,7 @@ export default {
       }
     }
 
-    // 5. Active listeners count and list (deduplicated by UID across multiple tabs)
+    // 6. Active listeners count and list (deduplicated by UID across multiple tabs)
     if (pathname === '/api/listeners') {
       try {
         const res = await fetch(fbUrl('/presence'));
@@ -287,7 +352,52 @@ export default {
       }
     }
 
-    // Forward other requests (e.g., assets or sync) to default worker handling
+    // 7. Audio streaming proxy with HTTP range support
+    if (pathname.startsWith('/stream/')) {
+      try {
+        const songId = decodeURIComponent(pathname.replace('/stream/', ''));
+        const song = songMap.get(songId);
+        const songUrl = song?.url || (song?.versions && song.versions[0]?.url);
+
+        if (!songUrl) {
+          return new Response('Song not found', { status: 404, headers: corsHeaders() });
+        }
+
+        const clientRange = request.headers.get('Range') || request.headers.get('range');
+        const reqHeaders = {};
+        if (clientRange) {
+          reqHeaders['Range'] = clientRange;
+        }
+
+        const upstream = await fetch(songUrl, {
+          headers: reqHeaders,
+          redirect: 'follow'
+        });
+
+        const respHeaders = new Headers(corsHeaders());
+        respHeaders.set('Content-Type', 'audio/mpeg');
+        respHeaders.set('Accept-Ranges', 'bytes');
+        respHeaders.set('Cache-Control', 'public, max-age=86400');
+
+        const cl = upstream.headers.get('content-length');
+        if (cl) respHeaders.set('Content-Length', cl);
+        const cr = upstream.headers.get('content-range');
+        if (cr) respHeaders.set('Content-Range', cr);
+
+        return new Response(upstream.body, {
+          status: upstream.status,
+          headers: respHeaders
+        });
+      } catch (err) {
+        return new Response('Stream error', { status: 500, headers: corsHeaders() });
+      }
+    }
+
+    // 8. Static assets delegation (Vite SPA frontend: HTML, CSS, JS, images, icons)
+    if (env.ASSETS) {
+      return env.ASSETS.fetch(request);
+    }
+
     return new Response('Not found', { status: 404 });
   }
 };

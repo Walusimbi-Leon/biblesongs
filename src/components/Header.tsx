@@ -1,4 +1,4 @@
-import { Radio, Disc3, Music2, MessageSquare, Trophy, Users } from 'lucide-react';
+import { Radio, Disc3, Music2, MessageSquare, Trophy, Users, Heart } from 'lucide-react';
 import { PlayerMode } from '../types';
 
 interface HeaderProps {
@@ -49,7 +49,6 @@ export function Header({
               </span>
             </div>
           </div>
-
           <div>
             <div className="flex items-center gap-2 sm:gap-2.5">
               <span className="text-base sm:text-xl font-light tracking-widest uppercase text-amber-100/95 font-sans">
@@ -97,7 +96,7 @@ export function Header({
 
         {/* Right Action Icons & Badges */}
         <div className="flex items-center gap-1.5 sm:gap-2">
-          {/* Active Listeners Pill — Clean, compact, no user initial bubbles */}
+          {/* Active Listeners Pill */}
           <button
             id="active-listeners-pill"
             onClick={onOpenListeners}
@@ -167,6 +166,20 @@ export function Header({
             <Trophy className="h-4 w-4 text-amber-400" />
             <span className="hidden sm:inline">Rankings</span>
           </button>
+
+          {/* Support Developer Button */}
+          <a
+            id="nav-support-developer-btn"
+            href="https://donate-to-sgss.pages.dev"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Support Developer — Donate to SGSS"
+            className="flex h-9 items-center gap-1.5 rounded-xl px-2.5 sm:px-3 text-xs font-semibold transition-all border cursor-pointer bg-gradient-to-r from-amber-500/20 to-amber-600/20 text-amber-300 border-amber-500/35 hover:border-amber-400 hover:from-amber-500/30 hover:to-amber-600/30 hover:text-amber-200 shadow-[0_0_15px_rgba(245,158,11,0.15)] active:scale-95"
+          >
+            <Heart className="h-3.5 w-3.5 fill-amber-400 text-amber-400 shrink-0" />
+            <span className="hidden sm:inline">Support Developer</span>
+            <span className="sm:hidden">Support</span>
+          </a>
         </div>
       </div>
     </header>
